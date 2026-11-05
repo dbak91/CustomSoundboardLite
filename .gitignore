@@ -1,0 +1,10 @@
+release-signing/
+.vs/
+bin/
+obj/
+.copilot/
+**/.copilot/
+**/copilot-instructions.md
+/artifacts/android-arm64
+artifacts/
+.local-archive/

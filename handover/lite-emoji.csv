@@ -1,0 +1,501 @@
+asset,label
+om_yes,Yes
+om_no,No
+om_thumbs_up,Thumbs up
+om_thumbs_down,Thumbs down
+om_please,Please
+om_hello,Hello
+om_stop,Stop
+om_wait_hand,Wait (hand)
+om_love,Love
+om_hug_face,Hug (face)
+om_thank_you,Thank you
+om_high_five,High five
+om_well_done,Well done
+om_celebrate,Celebrate
+om_cool,Cool
+om_happy,Happy
+om_very_happy,Very happy
+om_laughing,Laughing
+om_sad,Sad
+om_crying,Crying
+om_angry,Angry
+om_scared,Scared
+om_screaming,Screaming
+om_worried,Worried
+om_confused,Confused
+om_bored,Bored
+om_tired,Tired
+om_sleeping,Sleeping
+om_yawning,Yawning
+om_poorly,Poorly
+om_feel_sick,Feel sick
+om_hurt,Hurt
+om_too_hot,Too hot
+om_too_cold,Too cold
+om_surprised,Surprised
+om_relieved,Relieved
+om_thinking,Thinking
+om_silly,Silly
+om_shh_quiet,Shh quiet
+om_upset_with_you,Upset with you
+om_ear,Ear
+om_eyes,Eyes
+om_mouth,Mouth
+om_speak,Speak
+om_point_right,Point right
+om_point_left,Point left
+om_fist_bump,Fist bump
+om_victory,Victory
+om_ok,OK
+om_hand,Hand
+om_wheelchair,Wheelchair
+om_hearing_aid,Hearing aid
+om_alarm,Alarm
+om_time_passing,Time passing
+om_sun,Sun
+om_rain,Rain
+om_hospital,Hospital
+om_pill,Pill
+om_thermometer,Thermometer
+om_bathtub,Bathtub
+om_toothbrush,Toothbrush
+om_soap,Soap
+om_phone,Phone
+om_video_games,Video games
+om_puzzle,Puzzle
+om_balloon,Balloon
+om_gift,Gift
+om_baby_bottle,Baby bottle
+om_milkshake_straw,Milkshake straw
+om_books,Books
+om_crayon,Crayon
+om_baby,Baby
+om_family,Family
+om_girl,Girl
+om_i_don_t_know,I don't know
+om_my_turn,My turn
+om_you,You
+om_question,Question
+om_not_allowed,Not allowed
+om_embarrassed,Embarrassed
+om_nervous,Nervous
+om_dizzy,Dizzy
+om_boy,Boy
+om_man,Man
+om_woman,Woman
+om_friends,Friends
+om_doctor,Doctor
+om_police,Police
+om_cinema,Cinema
+om_popcorn,Popcorn
+om_scooter,Scooter
+om_orange_colour,Orange (colour)
+om_windy,Windy
+oe_grinning_face,Grinning face
+oe_grinning_face_with_big_eyes,Grinning face with big eyes
+oe_grinning_face_with_smiling_eyes,Grinning face with smiling eyes
+oe_beaming_face_with_smiling_eyes,Beaming face with smiling eyes
+oe_grinning_squinting_face,Grinning squinting face
+oe_grinning_face_with_sweat,Grinning face with sweat
+oe_rolling_on_the_floor_laughing,Rolling on the floor laughing
+oe_face_with_tears_of_joy,Face with tears of joy
+oe_slightly_smiling_face,Slightly smiling face
+oe_upside_down_face,Upside-down face
+oe_melting_face,Melting face
+oe_winking_face,Winking face
+oe_smiling_face_with_smiling_eyes,Smiling face with smiling eyes
+oe_smiling_face_with_halo,Smiling face with halo
+oe_smiling_face_with_hearts,Smiling face with hearts
+oe_smiling_face_with_heart_eyes,Smiling face with heart-eyes
+oe_star_struck,Star-struck
+oe_face_blowing_a_kiss,Face blowing a kiss
+oe_kissing_face,Kissing face
+oe_smiling_face,Smiling face
+oe_kissing_face_with_closed_eyes,Kissing face with closed eyes
+oe_kissing_face_with_smiling_eyes,Kissing face with smiling eyes
+oe_smiling_face_with_tear,Smiling face with tear
+oe_face_savoring_food,Face savoring food
+oe_face_with_tongue,Face with tongue
+oe_winking_face_with_tongue,Winking face with tongue
+oe_zany_face,Zany face
+oe_squinting_face_with_tongue,Squinting face with tongue
+oe_money_mouth_face,Money-mouth face
+oe_smiling_face_with_open_hands,Smiling face with open hands
+oe_face_with_hand_over_mouth,Face with hand over mouth
+oe_face_with_open_eyes_and_hand_over_mouth,Face with open eyes and hand over mouth
+oe_face_with_peeking_eye,Face with peeking eye
+oe_shushing_face,Shushing face
+oe_thinking_face,Thinking face
+oe_saluting_face,Saluting face
+oe_zipper_mouth_face,Zipper-mouth face
+oe_face_with_raised_eyebrow,Face with raised eyebrow
+oe_neutral_face,Neutral face
+oe_expressionless_face,Expressionless face
+oe_face_without_mouth,Face without mouth
+oe_dotted_line_face,Dotted line face
+oe_face_in_clouds,Face in clouds
+oe_smirking_face,Smirking face
+oe_unamused_face,Unamused face
+oe_face_with_rolling_eyes,Face with rolling eyes
+oe_grimacing_face,Grimacing face
+oe_face_exhaling,Face exhaling
+oe_lying_face,Lying face
+oe_shaking_face,Shaking face
+oe_head_shaking_horizontally,Head shaking horizontally
+oe_head_shaking_vertically,Head shaking vertically
+oe_relieved_face,Relieved face
+oe_pensive_face,Pensive face
+oe_sleepy_face,Sleepy face
+oe_drooling_face,Drooling face
+oe_sleeping_face,Sleeping face
+oe_face_with_bags_under_eyes,Face with bags under eyes
+oe_face_with_medical_mask,Face with medical mask
+oe_face_with_thermometer,Face with thermometer
+oe_face_with_head_bandage,Face with head-bandage
+oe_nauseated_face,Nauseated face
+oe_face_vomiting,Face vomiting
+oe_sneezing_face,Sneezing face
+oe_hot_face,Hot face
+oe_cold_face,Cold face
+oe_woozy_face,Woozy face
+oe_face_with_crossed_out_eyes,Face with crossed-out eyes
+oe_face_with_spiral_eyes,Face with spiral eyes
+oe_exploding_head,Exploding head
+oe_confused_face,Confused face
+oe_face_with_diagonal_mouth,Face with diagonal mouth
+oe_worried_face,Worried face
+oe_slightly_frowning_face,Slightly frowning face
+oe_frowning_face,Frowning face
+oe_face_with_open_mouth,Face with open mouth
+oe_hushed_face,Hushed face
+oe_astonished_face,Astonished face
+oe_flushed_face,Flushed face
+oe_distorted_face,Distorted face
+oe_pleading_face,Pleading face
+oe_face_holding_back_tears,Face holding back tears
+oe_frowning_face_with_open_mouth,Frowning face with open mouth
+oe_anguished_face,Anguished face
+oe_fearful_face,Fearful face
+oe_anxious_face_with_sweat,Anxious face with sweat
+oe_sad_but_relieved_face,Sad but relieved face
+oe_crying_face,Crying face
+oe_loudly_crying_face,Loudly crying face
+oe_face_screaming_in_fear,Face screaming in fear
+oe_confounded_face,Confounded face
+oe_persevering_face,Persevering face
+oe_disappointed_face,Disappointed face
+oe_downcast_face_with_sweat,Downcast face with sweat
+oe_weary_face,Weary face
+oe_tired_face,Tired face
+oe_yawning_face,Yawning face
+oe_face_with_steam_from_nose,Face with steam from nose
+oe_enraged_face,Enraged face
+oe_angry_face,Angry face
+oe_face_with_symbols_on_mouth,Face with symbols on mouth
+oe_smiling_face_with_horns,Smiling face with horns
+oe_angry_face_with_horns,Angry face with horns
+oe_skull,Skull
+oe_skull_and_crossbones,Skull and crossbones
+oe_kiss_mark,Kiss mark
+oe_hundred_points,Hundred points
+oe_anger_symbol,Anger symbol
+oe_fight_cloud,Fight cloud
+oe_collision,Collision
+oe_dizzy,Dizzy
+oe_sweat_droplets,Sweat droplets
+oe_dashing_away,Dashing away
+oe_hole,Hole
+oe_speech_balloon,Speech balloon
+oe_eye_in_speech_bubble,Eye in speech bubble
+oe_left_speech_bubble,Left speech bubble
+oe_right_anger_bubble,Right anger bubble
+oe_thought_balloon,Thought balloon
+oe_zzz,ZZZ
+oe_waving_hand,Waving hand
+oe_raised_back_of_hand,Raised back of hand
+oe_hand_with_fingers_splayed,Hand with fingers splayed
+oe_raised_hand,Raised hand
+oe_vulcan_salute,Vulcan salute
+oe_rightwards_hand,Rightwards hand
+oe_leftwards_hand,Leftwards hand
+oe_palm_down_hand,Palm down hand
+oe_palm_up_hand,Palm up hand
+oe_leftwards_pushing_hand,Leftwards pushing hand
+oe_rightwards_pushing_hand,Rightwards pushing hand
+oe_ok_hand,OK hand
+oe_pinched_fingers,Pinched fingers
+oe_pinching_hand,Pinching hand
+oe_victory_hand,Victory hand
+oe_crossed_fingers,Crossed fingers
+oe_hand_with_index_finger_and_thumb_crossed,Hand with index finger and thumb crossed
+oe_love_you_gesture,Love-you gesture
+oe_sign_of_the_horns,Sign of the horns
+oe_call_me_hand,Call me hand
+oe_backhand_index_pointing_left,Backhand index pointing left
+oe_backhand_index_pointing_right,Backhand index pointing right
+oe_backhand_index_pointing_up,Backhand index pointing up
+oe_middle_finger,Middle finger
+oe_backhand_index_pointing_down,Backhand index pointing down
+oe_index_pointing_up,Index pointing up
+oe_index_pointing_at_the_viewer,Index pointing at the viewer
+oe_thumbs_up,Thumbs up
+oe_thumbs_down,Thumbs down
+oe_raised_fist,Raised fist
+oe_oncoming_fist,Oncoming fist
+oe_left_facing_fist,Left-facing fist
+oe_right_facing_fist,Right-facing fist
+oe_clapping_hands,Clapping hands
+oe_raising_hands,Raising hands
+oe_heart_hands,Heart hands
+oe_open_hands,Open hands
+oe_palms_up_together,Palms up together
+oe_handshake,Handshake
+oe_folded_hands,Folded hands
+oe_flexed_biceps,Flexed biceps
+oe_mechanical_arm,Mechanical arm
+oe_mechanical_leg,Mechanical leg
+oe_leg,Leg
+oe_foot,Foot
+oe_ear,Ear
+oe_ear_with_hearing_aid,Ear with hearing aid
+oe_nose,Nose
+oe_brain,Brain
+oe_anatomical_heart,Anatomical heart
+oe_lungs,Lungs
+oe_tooth,Tooth
+oe_bone,Bone
+oe_eyes,Eyes
+oe_eye,Eye
+oe_tongue,Tongue
+oe_mouth,Mouth
+oe_biting_lip,Biting lip
+oe_monkey_face,Monkey face
+oe_monkey,Monkey
+oe_gorilla,Gorilla
+oe_orangutan,Orangutan
+oe_dog_face,Dog face
+oe_dog,Dog
+oe_guide_dog,Guide dog
+oe_service_dog,Service dog
+oe_poodle,Poodle
+oe_wolf,Wolf
+oe_fox,Fox
+oe_raccoon,Raccoon
+oe_cat_face,Cat face
+oe_cat,Cat
+oe_black_cat,Black cat
+oe_lion,Lion
+oe_tiger_face,Tiger face
+oe_tiger,Tiger
+oe_leopard,Leopard
+oe_horse_face,Horse face
+oe_moose,Moose
+oe_donkey,Donkey
+oe_horse,Horse
+oe_unicorn,Unicorn
+oe_zebra,Zebra
+oe_deer,Deer
+oe_bison,Bison
+oe_cow_face,Cow face
+oe_ox,Ox
+oe_water_buffalo,Water buffalo
+oe_cow,Cow
+oe_pig_face,Pig face
+oe_pig,Pig
+oe_boar,Boar
+oe_pig_nose,Pig nose
+oe_ram,Ram
+oe_ewe,Ewe
+oe_goat,Goat
+oe_camel,Camel
+oe_two_hump_camel,Two-hump camel
+oe_llama,Llama
+oe_giraffe,Giraffe
+oe_elephant,Elephant
+oe_mammoth,Mammoth
+oe_rhinoceros,Rhinoceros
+oe_hippopotamus,Hippopotamus
+oe_mouse_face,Mouse face
+oe_mouse,Mouse
+oe_rat,Rat
+oe_hamster,Hamster
+oe_rabbit_face,Rabbit face
+oe_rabbit,Rabbit
+oe_chipmunk,Chipmunk
+oe_beaver,Beaver
+oe_hedgehog,Hedgehog
+oe_bat,Bat
+oe_bear,Bear
+oe_polar_bear,Polar bear
+oe_koala,Koala
+oe_panda,Panda
+oe_sloth,Sloth
+oe_otter,Otter
+oe_skunk,Skunk
+oe_kangaroo,Kangaroo
+oe_badger,Badger
+oe_paw_prints,Paw prints
+oe_turkey,Turkey
+oe_chicken,Chicken
+oe_rooster,Rooster
+oe_hatching_chick,Hatching chick
+oe_baby_chick,Baby chick
+oe_front_facing_baby_chick,Front-facing baby chick
+oe_bird,Bird
+oe_penguin,Penguin
+oe_dove,Dove
+oe_eagle,Eagle
+oe_duck,Duck
+oe_swan,Swan
+oe_owl,Owl
+oe_dodo,Dodo
+oe_feather,Feather
+oe_flamingo,Flamingo
+oe_peacock,Peacock
+oe_parrot,Parrot
+oe_wing,Wing
+oe_black_bird,Black bird
+oe_goose,Goose
+oe_phoenix,Phoenix
+oe_spouting_whale,Spouting whale
+oe_whale,Whale
+oe_dolphin,Dolphin
+oe_orca,Orca
+oe_seal,Seal
+oe_fish,Fish
+oe_tropical_fish,Tropical fish
+oe_blowfish,Blowfish
+oe_shark,Shark
+oe_octopus,Octopus
+oe_spiral_shell,Spiral shell
+oe_coral,Coral
+oe_jellyfish,Jellyfish
+oe_crab,Crab
+oe_lobster,Lobster
+oe_shrimp,Shrimp
+oe_squid,Squid
+oe_oyster,Oyster
+oe_snail,Snail
+oe_butterfly,Butterfly
+oe_bug,Bug
+oe_ant,Ant
+oe_honeybee,Honeybee
+oe_beetle,Beetle
+oe_lady_beetle,Lady beetle
+oe_cricket,Cricket
+oe_cockroach,Cockroach
+oe_spider,Spider
+oe_spider_web,Spider web
+oe_scorpion,Scorpion
+oe_mosquito,Mosquito
+oe_fly,Fly
+oe_worm,Worm
+oe_microbe,Microbe
+oe_bouquet,Bouquet
+oe_cherry_blossom,Cherry blossom
+oe_white_flower,White flower
+oe_lotus,Lotus
+oe_rosette,Rosette
+oe_rose,Rose
+oe_wilted_flower,Wilted flower
+oe_hibiscus,Hibiscus
+oe_sunflower,Sunflower
+oe_blossom,Blossom
+oe_tulip,Tulip
+oe_hyacinth,Hyacinth
+oe_grapes,Grapes
+oe_melon,Melon
+oe_watermelon,Watermelon
+oe_tangerine,Tangerine
+oe_lemon,Lemon
+oe_lime,Lime
+oe_banana,Banana
+oe_pineapple,Pineapple
+oe_mango,Mango
+oe_red_apple,Red apple
+oe_green_apple,Green apple
+oe_pear,Pear
+oe_peach,Peach
+oe_cherries,Cherries
+oe_strawberry,Strawberry
+oe_blueberries,Blueberries
+oe_kiwi_fruit,Kiwi fruit
+oe_tomato,Tomato
+oe_olive,Olive
+oe_coconut,Coconut
+oe_avocado,Avocado
+oe_eggplant,Eggplant
+oe_potato,Potato
+oe_carrot,Carrot
+oe_ear_of_corn,Ear of corn
+oe_hot_pepper,Hot pepper
+oe_bell_pepper,Bell pepper
+oe_cucumber,Cucumber
+oe_leafy_green,Leafy green
+oe_broccoli,Broccoli
+oe_garlic,Garlic
+oe_onion,Onion
+oe_peanuts,Peanuts
+oe_beans,Beans
+oe_chestnut,Chestnut
+oe_ginger_root,Ginger root
+oe_pea_pod,Pea pod
+oe_brown_mushroom,Brown mushroom
+oe_root_vegetable,Root vegetable
+oe_bread,Bread
+oe_croissant,Croissant
+oe_baguette_bread,Baguette bread
+oe_flatbread,Flatbread
+oe_pretzel,Pretzel
+oe_bagel,Bagel
+oe_pancakes,Pancakes
+oe_waffle,Waffle
+oe_cheese_wedge,Cheese wedge
+oe_meat_on_bone,Meat on bone
+oe_poultry_leg,Poultry leg
+oe_cut_of_meat,Cut of meat
+oe_bacon,Bacon
+oe_hamburger,Hamburger
+oe_french_fries,French fries
+oe_pizza,Pizza
+oe_hot_dog,Hot dog
+oe_sandwich,Sandwich
+oe_taco,Taco
+oe_burrito,Burrito
+oe_tamale,Tamale
+oe_stuffed_flatbread,Stuffed flatbread
+oe_falafel,Falafel
+oe_egg,Egg
+oe_cooking,Cooking
+oe_shallow_pan_of_food,Shallow pan of food
+oe_pot_of_food,Pot of food
+oe_fondue,Fondue
+oe_bowl_with_spoon,Bowl with spoon
+oe_green_salad,Green salad
+oe_popcorn,Popcorn
+oe_butter,Butter
+oe_salt,Salt
+oe_canned_food,Canned food
+oe_soft_ice_cream,Soft ice cream
+oe_shaved_ice,Shaved ice
+oe_ice_cream,Ice cream
+oe_doughnut,Doughnut
+oe_cookie,Cookie
+oe_birthday_cake,Birthday cake
+oe_shortcake,Shortcake
+oe_cupcake,Cupcake
+oe_pie,Pie
+oe_chocolate_bar,Chocolate bar
+oe_candy,Candy
+oe_lollipop,Lollipop
+oe_custard,Custard
+oe_honey_pot,Honey pot
+oe_baby_bottle,Baby bottle
+oe_glass_of_milk,Glass of milk
+oe_hot_beverage,Hot beverage
+oe_teapot,Teapot
+oe_teacup_without_handle,Teacup without handle
+oe_sake,Sake
+oe_bottle_with_popping_cork,Bottle with popping cork
+oe_wine_glass,Wine glass

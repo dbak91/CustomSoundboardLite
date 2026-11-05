@@ -1,0 +1,1001 @@
+pack,label,file
+Mulberry,Hungry,mb_hungry.svg
+Mulberry,Thirsty,mb_thirsty.svg
+Mulberry,Yummy,mb_yummy.svg
+Mulberry,Yucky,mb_yucky.svg
+Mulberry,Eat,mb_eat.svg
+Mulberry,Drink,mb_drink.svg
+Mulberry,Breakfast,mb_breakfast.svg
+Mulberry,Lunch,mb_lunch.svg
+Mulberry,Dinner,mb_dinner.svg
+Mulberry,Water,mb_water.svg
+Mulberry,Milk,mb_milk.svg
+Mulberry,Orange juice,mb_orange_juice.svg
+Mulberry,Banana,mb_banana.svg
+Mulberry,Grapes,mb_grapes.svg
+Mulberry,Orange,mb_orange.svg
+Mulberry,Toast,mb_toast.svg
+Mulberry,Cereal,mb_cereal.svg
+Mulberry,Egg,mb_egg.svg
+Mulberry,Sandwich,mb_sandwich.svg
+Mulberry,Pizza,mb_pizza.svg
+Mulberry,Pasta,mb_pasta.svg
+Mulberry,Rice,mb_rice.svg
+Mulberry,Chips,mb_chips.svg
+Mulberry,Sausages,mb_sausages.svg
+Mulberry,Chicken,mb_chicken.svg
+Mulberry,Curry,mb_curry.svg
+Mulberry,Crisps,mb_crisps.svg
+Mulberry,Biscuit,mb_biscuit.svg
+Mulberry,Chocolate,mb_chocolate.svg
+Mulberry,Sweet,mb_sweet.svg
+Mulberry,Ice cream,mb_ice_cream.svg
+Mulberry,Cake,mb_cake.svg
+Mulberry,Toilet,mb_toilet.svg
+Mulberry,Need toilet,mb_need_toilet.svg
+Mulberry,Wash hands,mb_wash_hands.svg
+Mulberry,Brush teeth,mb_brush_teeth.svg
+Mulberry,Shower,mb_shower.svg
+Mulberry,Bath,mb_bath.svg
+Mulberry,Get dressed,mb_get_dressed.svg
+Mulberry,Brush hair,mb_brush_hair.svg
+Mulberry,Change nappy,mb_change_nappy.svg
+Mulberry,Pyjamas,mb_pyjamas.svg
+Mulberry,Sleep,mb_sleep.svg
+Mulberry,Bed time,mb_bed_time.svg
+Mulberry,Tummy ache,mb_tummy_ache.svg
+Mulberry,Help,mb_help.svg
+Mulberry,Want,mb_want.svg
+Mulberry,Hug,mb_hug.svg
+Mulberry,More,mb_more.svg
+Mulberry,Enough,mb_enough.svg
+Mulberry,Finish,mb_finish.svg
+Mulberry,Quiet,mb_quiet.svg
+Mulberry,Loud,mb_loud.svg
+Mulberry,Play,mb_play.svg
+Mulberry,Dance,mb_dance.svg
+Mulberry,Sing,mb_sing.svg
+Mulberry,Walk,mb_walk.svg
+Mulberry,Run,mb_run.svg
+Mulberry,Jump,mb_jump.svg
+Mulberry,Swim,mb_swim.svg
+Mulberry,Draw,mb_draw.svg
+Mulberry,Read,mb_read.svg
+Mulberry,Swing,mb_swing.svg
+Mulberry,Slide,mb_slide.svg
+Mulberry,Trampoline,mb_trampoline.svg
+Mulberry,Bubbles,mb_bubbles.svg
+Mulberry,Ball,mb_ball.svg
+Mulberry,Music,mb_music.svg
+Mulberry,Tablet,mb_tablet.svg
+Mulberry,TV,mb_tv.svg
+Mulberry,Home,mb_home.svg
+Mulberry,School,mb_school.svg
+Mulberry,Shop,mb_shop.svg
+Mulberry,Park,mb_park.svg
+Mulberry,Garden,mb_garden.svg
+Mulberry,Outside,mb_outside.svg
+Mulberry,Car,mb_car.svg
+Mulberry,Stairs,mb_stairs.svg
+Mulberry,Dog,mb_dog.svg
+Mulberry,Cat,mb_cat.svg
+Mulberry,Mum,mb_mum.svg
+Mulberry,Dad,mb_dad.svg
+Mulberry,Teacher,mb_teacher.svg
+Mulberry,Medicine,mb_medicine.svg
+Mulberry,Headache,mb_headache.svg
+Mulberry,Toothache,mb_toothache.svg
+Mulberry,Wait,mb_wait.svg
+Mulberry,Hello,mb_hello.svg
+Mulberry,Wake up,mb_wake_up.svg
+Mulberry,Bus,mb_bus.svg
+Mulberry,Train,mb_train.svg
+Mulberry,Look,mb_look.svg
+Mulberry,Listen,mb_listen.svg
+Mulberry,Open,mb_open.svg
+Mulberry,Close,mb_close.svg
+Mulberry,Go,mb_go.svg
+Mulberry,Come,mb_come.svg
+Mulberry,Give,mb_give.svg
+Mulberry,Share,mb_share.svg
+OpenMoji,Yes,om_yes.svg
+OpenMoji,No,om_no.svg
+OpenMoji,Thumbs up,om_thumbs_up.svg
+OpenMoji,Thumbs down,om_thumbs_down.svg
+OpenMoji,Please,om_please.svg
+OpenMoji,Hello,om_hello.svg
+OpenMoji,Stop,om_stop.svg
+OpenMoji,Wait (hand),om_wait_hand.svg
+OpenMoji,Love,om_love.svg
+OpenMoji,Hug (face),om_hug_face.svg
+OpenMoji,Thank you,om_thank_you.svg
+OpenMoji,High five,om_high_five.svg
+OpenMoji,Well done,om_well_done.svg
+OpenMoji,Celebrate,om_celebrate.svg
+OpenMoji,Cool,om_cool.svg
+OpenMoji,Happy,om_happy.svg
+OpenMoji,Very happy,om_very_happy.svg
+OpenMoji,Laughing,om_laughing.svg
+OpenMoji,Sad,om_sad.svg
+OpenMoji,Crying,om_crying.svg
+OpenMoji,Angry,om_angry.svg
+OpenMoji,Scared,om_scared.svg
+OpenMoji,Screaming,om_screaming.svg
+OpenMoji,Worried,om_worried.svg
+OpenMoji,Confused,om_confused.svg
+OpenMoji,Bored,om_bored.svg
+OpenMoji,Tired,om_tired.svg
+OpenMoji,Sleeping,om_sleeping.svg
+OpenMoji,Yawning,om_yawning.svg
+OpenMoji,Poorly,om_poorly.svg
+OpenMoji,Feel sick,om_feel_sick.svg
+OpenMoji,Hurt,om_hurt.svg
+OpenMoji,Too hot,om_too_hot.svg
+OpenMoji,Too cold,om_too_cold.svg
+OpenMoji,Surprised,om_surprised.svg
+OpenMoji,Relieved,om_relieved.svg
+OpenMoji,Thinking,om_thinking.svg
+OpenMoji,Silly,om_silly.svg
+OpenMoji,Shh quiet,om_shh_quiet.svg
+OpenMoji,Upset with you,om_upset_with_you.svg
+OpenMoji,Ear,om_ear.svg
+OpenMoji,Eyes,om_eyes.svg
+OpenMoji,Mouth,om_mouth.svg
+OpenMoji,Speak,om_speak.svg
+OpenMoji,Point right,om_point_right.svg
+OpenMoji,Point left,om_point_left.svg
+OpenMoji,Fist bump,om_fist_bump.svg
+OpenMoji,Victory,om_victory.svg
+OpenMoji,OK,om_ok.svg
+OpenMoji,Hand,om_hand.svg
+OpenMoji,Wheelchair,om_wheelchair.svg
+OpenMoji,Hearing aid,om_hearing_aid.svg
+OpenMoji,Alarm,om_alarm.svg
+OpenMoji,Time passing,om_time_passing.svg
+OpenMoji,Sun,om_sun.svg
+OpenMoji,Rain,om_rain.svg
+OpenMoji,Hospital,om_hospital.svg
+OpenMoji,Pill,om_pill.svg
+OpenMoji,Thermometer,om_thermometer.svg
+OpenMoji,Bathtub,om_bathtub.svg
+OpenMoji,Toothbrush,om_toothbrush.svg
+OpenMoji,Soap,om_soap.svg
+OpenMoji,Phone,om_phone.svg
+OpenMoji,Video games,om_video_games.svg
+OpenMoji,Puzzle,om_puzzle.svg
+OpenMoji,Balloon,om_balloon.svg
+OpenMoji,Gift,om_gift.svg
+OpenMoji,Baby bottle,om_baby_bottle.svg
+OpenMoji,Milkshake straw,om_milkshake_straw.svg
+OpenMoji,Books,om_books.svg
+OpenMoji,Crayon,om_crayon.svg
+OpenMoji,Baby,om_baby.svg
+OpenMoji,Family,om_family.svg
+OpenMoji,Girl,om_girl.svg
+Mulberry,What,mb_what.svg
+Mulberry,Where,mb_where.svg
+Mulberry,Who,mb_who.svg
+Mulberry,When,mb_when.svg
+Mulberry,Why,mb_why.svg
+Mulberry,How,mb_how.svg
+Mulberry,Which,mb_which.svg
+OpenMoji,I don't know,om_i_don_t_know.svg
+OpenMoji,My turn,om_my_turn.svg
+OpenMoji,You,om_you.svg
+OpenMoji,Question,om_question.svg
+OpenMoji,Not allowed,om_not_allowed.svg
+Mulberry,Communication book,mb_communication_book.svg
+Mulberry,Up,mb_up.svg
+Mulberry,Down,mb_down.svg
+Mulberry,In,mb_in.svg
+Mulberry,Out,mb_out.svg
+Mulberry,On,mb_on.svg
+Mulberry,Off,mb_off.svg
+Mulberry,Under,mb_under.svg
+Mulberry,Over,mb_over.svg
+Mulberry,Behind,mb_behind.svg
+Mulberry,In front,mb_in_front.svg
+Mulberry,Next to,mb_next_to.svg
+Mulberry,Left,mb_left.svg
+Mulberry,Right,mb_right.svg
+Mulberry,First,mb_first.svg
+Mulberry,Last,mb_last.svg
+Mulberry,Next,mb_next.svg
+Mulberry,Between,mb_between.svg
+Mulberry,Near,mb_near.svg
+Mulberry,Away,mb_away.svg
+Mulberry,Some,mb_some.svg
+Mulberry,Empty,mb_empty.svg
+Mulberry,Full,mb_full.svg
+Mulberry,Little,mb_little.svg
+Mulberry,Big,mb_big.svg
+Mulberry,Same,mb_same.svg
+Mulberry,Favourite,mb_favourite.svg
+Mulberry,Good,mb_good.svg
+Mulberry,Bad,mb_bad.svg
+Mulberry,Broken,mb_broken.svg
+Mulberry,Dirty,mb_dirty.svg
+Mulberry,Clean,mb_clean.svg
+Mulberry,Wet,mb_wet.svg
+Mulberry,Dry,mb_dry.svg
+Mulberry,Hot,mb_hot.svg
+Mulberry,Wrong,mb_wrong.svg
+Mulberry,Correct,mb_correct.svg
+Mulberry,Messy,mb_messy.svg
+Mulberry,Fast,mb_fast.svg
+Mulberry,Ready,mb_ready.svg
+Mulberry,Scary,mb_scary.svg
+Mulberry,Funny,mb_funny.svg
+Mulberry,Now,mb_now.svg
+Mulberry,Today,mb_today.svg
+Mulberry,Tomorrow,mb_tomorrow.svg
+Mulberry,Yesterday,mb_yesterday.svg
+Mulberry,Morning,mb_morning.svg
+Mulberry,Night,mb_night.svg
+Mulberry,Day,mb_day.svg
+Mulberry,Week,mb_week.svg
+Mulberry,Weekend,mb_weekend.svg
+Mulberry,Later,mb_later.svg
+Mulberry,One minute,mb_one_minute.svg
+Mulberry,Clock,mb_clock.svg
+Mulberry,Break time,mb_break_time.svg
+Mulberry,Birthday,mb_birthday.svg
+Mulberry,Ask,mb_ask.svg
+Mulberry,Bring,mb_bring.svg
+Mulberry,Clap,mb_clap.svg
+Mulberry,Climb,mb_climb.svg
+Mulberry,Cut,mb_cut.svg
+Mulberry,Find,mb_find.svg
+Mulberry,Get,mb_get.svg
+Mulberry,Get up,mb_get_up.svg
+Mulberry,Hold,mb_hold.svg
+Mulberry,Hold hands,mb_hold_hands.svg
+Mulberry,Hit,mb_hit.svg
+Mulberry,Kick,mb_kick.svg
+Mulberry,Make,mb_make.svg
+Mulberry,Pick up,mb_pick_up.svg
+Mulberry,Pull,mb_pull.svg
+Mulberry,Push,mb_push.svg
+Mulberry,Put away,mb_put_away.svg
+Mulberry,Shout,mb_shout.svg
+Mulberry,Show me,mb_show_me.svg
+Mulberry,Sit,mb_sit.svg
+Mulberry,Smile,mb_smile.svg
+Mulberry,Spill,mb_spill.svg
+Mulberry,Stand,mb_stand.svg
+Mulberry,Take,mb_take.svg
+Mulberry,Talk,mb_talk.svg
+Mulberry,Think,mb_think.svg
+Mulberry,Throw away,mb_throw_away.svg
+Mulberry,Turn on,mb_turn_on.svg
+Mulberry,Turn off,mb_turn_off.svg
+Mulberry,Go downstairs,mb_go_downstairs.svg
+Mulberry,Wash face,mb_wash_face.svg
+Mulberry,Watch,mb_watch.svg
+Mulberry,Write,mb_write.svg
+Mulberry,Bite,mb_bite.svg
+Mulberry,Lie down,mb_lie_down.svg
+Mulberry,Tidy up,mb_tidy_up.svg
+Mulberry,Wash up,mb_wash_up.svg
+Mulberry,Excited,mb_excited.svg
+Mulberry,Disgusted,mb_disgusted.svg
+OpenMoji,Embarrassed,om_embarrassed.svg
+OpenMoji,Nervous,om_nervous.svg
+OpenMoji,Dizzy,om_dizzy.svg
+Mulberry,Flush,mb_flush.svg
+Mulberry,Dry hands,mb_dry_hands.svg
+Mulberry,Wash hair,mb_wash_hair.svg
+Mulberry,Haircut,mb_haircut.svg
+Mulberry,Toilet roll,mb_toilet_roll.svg
+Mulberry,Towel,mb_towel.svg
+Mulberry,Tissues,mb_tissues.svg
+Mulberry,Hairbrush,mb_hairbrush.svg
+Mulberry,Nappy,mb_nappy.svg
+Mulberry,Plaster,mb_plaster.svg
+Mulberry,Inhaler,mb_inhaler.svg
+Mulberry,Glasses,mb_glasses.svg
+Mulberry,First aid,mb_first_aid.svg
+Mulberry,Cut (hurt),mb_cut_hurt.svg
+Mulberry,Rash,mb_rash.svg
+Mulberry,Cold (sneezing),mb_cold_sneezing.svg
+Mulberry,Back ache,mb_back_ache.svg
+Mulberry,Be sick,mb_be_sick.svg
+Mulberry,Seizure,mb_seizure.svg
+Mulberry,Doctor's surgery,mb_doctor_s_surgery.svg
+Mulberry,Ambulance,mb_ambulance.svg
+Mulberry,Head,mb_head.svg
+Mulberry,Teeth,mb_teeth.svg
+Mulberry,Arm,mb_arm.svg
+Mulberry,Leg,mb_leg.svg
+Mulberry,Knee,mb_knee.svg
+Mulberry,Foot,mb_foot.svg
+Mulberry,Back,mb_back.svg
+Mulberry,Tummy,mb_tummy.svg
+Mulberry,Bottom,mb_bottom.svg
+Mulberry,Throat,mb_throat.svg
+Mulberry,Brother,mb_brother.svg
+Mulberry,Sister,mb_sister.svg
+Mulberry,Nan,mb_nan.svg
+Mulberry,Grandad,mb_grandad.svg
+Mulberry,Auntie,mb_auntie.svg
+Mulberry,Uncle,mb_uncle.svg
+OpenMoji,Boy,om_boy.svg
+OpenMoji,Man,om_man.svg
+OpenMoji,Woman,om_woman.svg
+OpenMoji,Friends,om_friends.svg
+OpenMoji,Doctor,om_doctor.svg
+OpenMoji,Police,om_police.svg
+Mulberry,Church,mb_church.svg
+Mulberry,Classroom,mb_classroom.svg
+Mulberry,Sensory room,mb_sensory_room.svg
+Mulberry,Cafe,mb_cafe.svg
+Mulberry,Beach,mb_beach.svg
+Mulberry,Lift,mb_lift.svg
+Mulberry,Holiday,mb_holiday.svg
+OpenMoji,Cinema,om_cinema.svg
+Mulberry,Bed,mb_bed.svg
+Mulberry,Chair,mb_chair.svg
+Mulberry,Table,mb_table.svg
+Mulberry,Sofa,mb_sofa.svg
+Mulberry,Door,mb_door.svg
+Mulberry,Light,mb_light.svg
+Mulberry,Fridge,mb_fridge.svg
+Mulberry,Blanket,mb_blanket.svg
+Mulberry,Bin,mb_bin.svg
+Mulberry,Cup,mb_cup.svg
+Mulberry,Plate,mb_plate.svg
+Mulberry,Bowl,mb_bowl.svg
+Mulberry,Spoon,mb_spoon.svg
+Mulberry,Fork,mb_fork.svg
+Mulberry,Knife,mb_knife.svg
+Mulberry,Straw,mb_straw.svg
+Mulberry,Food,mb_food.svg
+Mulberry,Drinks,mb_drinks.svg
+Mulberry,Apple,mb_apple.svg
+Mulberry,Pear,mb_pear.svg
+Mulberry,Strawberry,mb_strawberry.svg
+Mulberry,Fruit,mb_fruit.svg
+Mulberry,Vegetables,mb_vegetables.svg
+Mulberry,Carrot,mb_carrot.svg
+Mulberry,Peas,mb_peas.svg
+Mulberry,Potato,mb_potato.svg
+Mulberry,Tomato,mb_tomato.svg
+Mulberry,Salad,mb_salad.svg
+Mulberry,Cheese,mb_cheese.svg
+Mulberry,Yoghurt,mb_yoghurt.svg
+Mulberry,Bread,mb_bread.svg
+Mulberry,Beans,mb_beans.svg
+Mulberry,Soup,mb_soup.svg
+Mulberry,Burger,mb_burger.svg
+Mulberry,Hot dog,mb_hot_dog.svg
+Mulberry,Fish and chips,mb_fish_and_chips.svg
+Mulberry,Chicken nuggets,mb_chicken_nuggets.svg
+Mulberry,Spaghetti,mb_spaghetti.svg
+Mulberry,Jelly,mb_jelly.svg
+Mulberry,Lollipop,mb_lollipop.svg
+Mulberry,Birthday cake,mb_birthday_cake.svg
+Mulberry,Pudding,mb_pudding.svg
+Mulberry,Tea,mb_tea.svg
+Mulberry,Hot chocolate,mb_hot_chocolate.svg
+Mulberry,Fizzy drink,mb_fizzy_drink.svg
+Mulberry,Milkshake,mb_milkshake.svg
+Mulberry,Nuts,mb_nuts.svg
+OpenMoji,Popcorn,om_popcorn.svg
+Mulberry,Coat,mb_coat.svg
+Mulberry,Jumper,mb_jumper.svg
+Mulberry,T-shirt,mb_t_shirt.svg
+Mulberry,Trousers,mb_trousers.svg
+Mulberry,Shorts,mb_shorts.svg
+Mulberry,Dress,mb_dress.svg
+Mulberry,Socks,mb_socks.svg
+Mulberry,Trainers,mb_trainers.svg
+Mulberry,Shoes,mb_shoes.svg
+Mulberry,Woolly hat,mb_woolly_hat.svg
+Mulberry,Gloves,mb_gloves.svg
+Mulberry,Pants,mb_pants.svg
+Mulberry,Swimming costume,mb_swimming_costume.svg
+Mulberry,School bag,mb_school_bag.svg
+Mulberry,Teddy,mb_teddy.svg
+Mulberry,Doll,mb_doll.svg
+Mulberry,Toy car,mb_toy_car.svg
+Mulberry,Blocks,mb_blocks.svg
+Mulberry,Colouring book,mb_colouring_book.svg
+Mulberry,Stickers,mb_stickers.svg
+Mulberry,Kite,mb_kite.svg
+Mulberry,Dinosaur,mb_dinosaur.svg
+Mulberry,Toys,mb_toys.svg
+Mulberry,Climbing frame,mb_climbing_frame.svg
+Mulberry,Bike,mb_bike.svg
+OpenMoji,Scooter,om_scooter.svg
+Mulberry,Headphones,mb_headphones.svg
+Mulberry,Camera,mb_camera.svg
+Mulberry,Computer,mb_computer.svg
+Mulberry,Drum,mb_drum.svg
+Mulberry,Pencil,mb_pencil.svg
+Mulberry,Pen,mb_pen.svg
+Mulberry,Scissors,mb_scissors.svg
+Mulberry,Paper,mb_paper.svg
+Mulberry,Maths,mb_maths.svg
+Mulberry,PE,mb_pe.svg
+Mulberry,Art,mb_art.svg
+Mulberry,Circle time,mb_circle_time.svg
+Mulberry,Time out,mb_time_out.svg
+Mulberry,Colours,mb_colours.svg
+Mulberry,Red,mb_red.svg
+Mulberry,Blue,mb_blue.svg
+Mulberry,Green,mb_green.svg
+Mulberry,Yellow,mb_yellow.svg
+OpenMoji,Orange (colour),om_orange_colour.svg
+Mulberry,Pink,mb_pink.svg
+Mulberry,Purple,mb_purple.svg
+Mulberry,Black,mb_black.svg
+Mulberry,White,mb_white.svg
+Mulberry,Brown,mb_brown.svg
+Mulberry,Grey,mb_grey.svg
+Mulberry,Circle,mb_circle.svg
+Mulberry,Square,mb_square.svg
+Mulberry,Triangle,mb_triangle.svg
+Mulberry,Heart,mb_heart.svg
+Mulberry,Rectangle,mb_rectangle.svg
+Mulberry,Cloudy,mb_cloudy.svg
+Mulberry,Snow,mb_snow.svg
+Mulberry,Rainbow,mb_rainbow.svg
+Mulberry,Storm,mb_storm.svg
+OpenMoji,Windy,om_windy.svg
+Mulberry,Flower,mb_flower.svg
+Mulberry,Tree,mb_tree.svg
+Mulberry,Horse,mb_horse.svg
+Mulberry,Cow,mb_cow.svg
+Mulberry,Sheep,mb_sheep.svg
+Mulberry,Pig,mb_pig.svg
+Mulberry,Duck,mb_duck.svg
+Mulberry,Hen,mb_hen.svg
+Mulberry,Bird,mb_bird.svg
+Mulberry,Fish,mb_fish.svg
+Mulberry,Rabbit,mb_rabbit.svg
+Mulberry,Mouse,mb_mouse.svg
+Mulberry,Elephant,mb_elephant.svg
+Mulberry,Lion,mb_lion.svg
+Mulberry,Tiger,mb_tiger.svg
+Mulberry,Bear,mb_bear.svg
+Mulberry,Frog,mb_frog.svg
+Mulberry,Butterfly,mb_butterfly.svg
+Mulberry,Spider,mb_spider.svg
+Mulberry,Aeroplane,mb_aeroplane.svg
+Mulberry,Boat,mb_boat.svg
+Mulberry,Taxi,mb_taxi.svg
+Mulberry,Fire engine,mb_fire_engine.svg
+Mulberry,Helicopter,mb_helicopter.svg
+Mulberry,Traffic lights,mb_traffic_lights.svg
+Mulberry,Christmas,mb_christmas.svg
+Mulberry,Easter egg,mb_easter_egg.svg
+Mulberry,Halloween,mb_halloween.svg
+Mulberry,Party,mb_party.svg
+Mulberry,Father Christmas,mb_father_christmas.svg
+Mulberry,Money,mb_money.svg
+Mulberry,Shopping basket,mb_shopping_basket.svg
+Mulberry,Suitcase,mb_suitcase.svg
+Mulberry,Photos,mb_photos.svg
+Mulberry,Letter,mb_letter.svg
+Mulberry,Football,mb_football.svg
+Mulberry,Tennis,mb_tennis.svg
+Mulberry,Basketball,mb_basketball.svg
+Mulberry,Exercise,mb_exercise.svg
+Mulberry,Afternoon,mb_afternoon.svg
+Mulberry,One hour,mb_one_hour.svg
+Mulberry,Calendar,mb_calendar.svg
+Mulberry,Tea time,mb_tea_time.svg
+Mulberry,Busy,mb_busy.svg
+Mulberry,Lost,mb_lost.svg
+Mulberry,Closed,mb_closed.svg
+Mulberry,Soft,mb_soft.svg
+Mulberry,Cold drink,mb_cold_drink.svg
+Mulberry,Hot drink,mb_hot_drink.svg
+Mulberry,Half,mb_half.svg
+Mulberry,Long,mb_long.svg
+Mulberry,Short,mb_short.svg
+Mulberry,Heavy,mb_heavy.svg
+Mulberry,Put,mb_put.svg
+Mulberry,Move,mb_move.svg
+Mulberry,Change clothes,mb_change_clothes.svg
+Mulberry,Drive,mb_drive.svg
+Mulberry,Bird seed,mb_bird_seed.svg
+Mulberry,Bone,mb_bone.svg
+Mulberry,Cat biscuits,mb_cat_biscuits.svg
+Mulberry,Cat food,mb_cat_food.svg
+Mulberry,Dog biscuits,mb_dog_biscuits.svg
+Mulberry,Dog chew,mb_dog_chew.svg
+Mulberry,Dog food,mb_dog_food.svg
+Mulberry,"Feed cat, to",mb_feed_cat_to.svg
+Mulberry,"Feed dog, to",mb_feed_dog_to.svg
+Mulberry,Fish food,mb_fish_food.svg
+Mulberry,Food bowl dog,mb_food_bowl_dog.svg
+Mulberry,Food bowl horse,mb_food_bowl_horse.svg
+Mulberry,Hamster food,mb_hamster_food.svg
+Mulberry,Water bottle hamster,mb_water_bottle_hamster.svg
+Mulberry,Water bowl,mb_water_bowl.svg
+Mulberry,"Bath animal, to",mb_bath_animal_to.svg
+Mulberry,Bridle,mb_bridle.svg
+Mulberry,"Brush animal, to",mb_brush_animal_to.svg
+Mulberry,Collar pet,mb_collar_pet.svg
+Mulberry,"Comb animal, to",mb_comb_animal_to.svg
+Mulberry,Dog coat,mb_dog_coat.svg
+Mulberry,Lead,mb_lead.svg
+Mulberry,Pet blanket,mb_pet_blanket.svg
+Mulberry,Pet brush,mb_pet_brush.svg
+Mulberry,Pet comb,mb_pet_comb.svg
+Mulberry,Saddle,mb_saddle.svg
+Mulberry,"Shampoo animal, to",mb_shampoo_animal_to.svg
+Mulberry,"Stroke, to",mb_stroke_to.svg
+Mulberry,"Walk dog, to",mb_walk_dog_to.svg
+Mulberry,Trap,mb_trap.svg
+Mulberry,Budgie,mb_budgie.svg
+Mulberry,Chick,mb_chick.svg
+Mulberry,Cockatiel,mb_cockatiel.svg
+Mulberry,Cockerel,mb_cockerel.svg
+Mulberry,Dove,mb_dove.svg
+Mulberry,Flamingo,mb_flamingo.svg
+Mulberry,Goose,mb_goose.svg
+Mulberry,Heron,mb_heron.svg
+Mulberry,Ostrich,mb_ostrich.svg
+Mulberry,Owl,mb_owl.svg
+Mulberry,Parrot,mb_parrot.svg
+Mulberry,Peacock,mb_peacock.svg
+Mulberry,Pelican,mb_pelican.svg
+Mulberry,Penguin,mb_penguin.svg
+Mulberry,Puffin,mb_puffin.svg
+Mulberry,Quail,mb_quail.svg
+Mulberry,Robin,mb_robin.svg
+Mulberry,Seagull,mb_seagull.svg
+Mulberry,Swan,mb_swan.svg
+Mulberry,Turkey,mb_turkey.svg
+Mulberry,Turkey,mb_turkey_2.svg
+Mulberry,Vulture,mb_vulture.svg
+Mulberry,Crab,mb_crab.svg
+Mulberry,Mussel,mb_mussel.svg
+Mulberry,Oyster,mb_oyster.svg
+Mulberry,Oyster,mb_oyster_2.svg
+Mulberry,Prawn,mb_prawn.svg
+Mulberry,Slug,mb_slug.svg
+Mulberry,Snail,mb_snail.svg
+Mulberry,Beak,mb_beak.svg
+Mulberry,Claw,mb_claw.svg
+Mulberry,Fangs,mb_fangs.svg
+Mulberry,Feather,mb_feather.svg
+Mulberry,Fin,mb_fin.svg
+Mulberry,Flipper,mb_flipper.svg
+Mulberry,Hoof,mb_hoof.svg
+Mulberry,Horns,mb_horns.svg
+Mulberry,Paw,mb_paw.svg
+Mulberry,Paw,mb_paw_1.svg
+Mulberry,Prickles,mb_prickles.svg
+Mulberry,Scales fish,mb_scales_fish.svg
+Mulberry,"Squeak, to",mb_squeak_to.svg
+Mulberry,"Wag tail, to",mb_wag_tail_to.svg
+Mulberry,"Wag tail 2, to",mb_wag_tail_2_to.svg
+Mulberry,Webbed foot,mb_webbed_foot.svg
+Mulberry,Whiskers,mb_whiskers.svg
+Mulberry,Wing,mb_wing.svg
+Mulberry,Dolphin,mb_dolphin.svg
+Mulberry,Fish koi carp,mb_fish_koi_carp.svg
+Mulberry,Fish tropical,mb_fish_tropical.svg
+Mulberry,Goldfish,mb_goldfish.svg
+Mulberry,Killer whale,mb_killer_whale.svg
+Mulberry,Seahorse,mb_seahorse.svg
+Mulberry,Seal,mb_seal.svg
+Mulberry,Walrus,mb_walrus.svg
+Mulberry,Aquarium,mb_aquarium.svg
+Mulberry,Beehive,mb_beehive.svg
+Mulberry,Bees nest,mb_bees_nest.svg
+Mulberry,Bird bath,mb_bird_bath.svg
+Mulberry,Bird cage,mb_bird_cage.svg
+Mulberry,Bird feeder,mb_bird_feeder.svg
+Mulberry,Cage,mb_cage.svg
+Mulberry,Cat bed,mb_cat_bed.svg
+OpenMoji,Grinning face,oe_grinning_face.webp
+OpenMoji,Grinning face with big eyes,oe_grinning_face_with_big_eyes.webp
+OpenMoji,Grinning face with smiling eyes,oe_grinning_face_with_smiling_eyes.webp
+OpenMoji,Beaming face with smiling eyes,oe_beaming_face_with_smiling_eyes.webp
+OpenMoji,Grinning squinting face,oe_grinning_squinting_face.webp
+OpenMoji,Grinning face with sweat,oe_grinning_face_with_sweat.webp
+OpenMoji,Rolling on the floor laughing,oe_rolling_on_the_floor_laughing.webp
+OpenMoji,Face with tears of joy,oe_face_with_tears_of_joy.webp
+OpenMoji,Slightly smiling face,oe_slightly_smiling_face.webp
+OpenMoji,Upside-down face,oe_upside_down_face.webp
+OpenMoji,Melting face,oe_melting_face.webp
+OpenMoji,Winking face,oe_winking_face.webp
+OpenMoji,Smiling face with smiling eyes,oe_smiling_face_with_smiling_eyes.webp
+OpenMoji,Smiling face with halo,oe_smiling_face_with_halo.webp
+OpenMoji,Smiling face with hearts,oe_smiling_face_with_hearts.webp
+OpenMoji,Smiling face with heart-eyes,oe_smiling_face_with_heart_eyes.webp
+OpenMoji,Star-struck,oe_star_struck.webp
+OpenMoji,Face blowing a kiss,oe_face_blowing_a_kiss.webp
+OpenMoji,Kissing face,oe_kissing_face.webp
+OpenMoji,Smiling face,oe_smiling_face.webp
+OpenMoji,Kissing face with closed eyes,oe_kissing_face_with_closed_eyes.webp
+OpenMoji,Kissing face with smiling eyes,oe_kissing_face_with_smiling_eyes.webp
+OpenMoji,Smiling face with tear,oe_smiling_face_with_tear.webp
+OpenMoji,Face savoring food,oe_face_savoring_food.webp
+OpenMoji,Face with tongue,oe_face_with_tongue.webp
+OpenMoji,Winking face with tongue,oe_winking_face_with_tongue.webp
+OpenMoji,Zany face,oe_zany_face.webp
+OpenMoji,Squinting face with tongue,oe_squinting_face_with_tongue.webp
+OpenMoji,Money-mouth face,oe_money_mouth_face.webp
+OpenMoji,Smiling face with open hands,oe_smiling_face_with_open_hands.webp
+OpenMoji,Face with hand over mouth,oe_face_with_hand_over_mouth.webp
+OpenMoji,Face with open eyes and hand over mouth,oe_face_with_open_eyes_and_hand_over_mouth.webp
+OpenMoji,Face with peeking eye,oe_face_with_peeking_eye.webp
+OpenMoji,Shushing face,oe_shushing_face.webp
+OpenMoji,Thinking face,oe_thinking_face.webp
+OpenMoji,Saluting face,oe_saluting_face.webp
+OpenMoji,Zipper-mouth face,oe_zipper_mouth_face.webp
+OpenMoji,Face with raised eyebrow,oe_face_with_raised_eyebrow.webp
+OpenMoji,Neutral face,oe_neutral_face.webp
+OpenMoji,Expressionless face,oe_expressionless_face.webp
+OpenMoji,Face without mouth,oe_face_without_mouth.webp
+OpenMoji,Dotted line face,oe_dotted_line_face.webp
+OpenMoji,Face in clouds,oe_face_in_clouds.webp
+OpenMoji,Smirking face,oe_smirking_face.webp
+OpenMoji,Unamused face,oe_unamused_face.webp
+OpenMoji,Face with rolling eyes,oe_face_with_rolling_eyes.webp
+OpenMoji,Grimacing face,oe_grimacing_face.webp
+OpenMoji,Face exhaling,oe_face_exhaling.webp
+OpenMoji,Lying face,oe_lying_face.webp
+OpenMoji,Shaking face,oe_shaking_face.webp
+OpenMoji,Head shaking horizontally,oe_head_shaking_horizontally.webp
+OpenMoji,Head shaking vertically,oe_head_shaking_vertically.webp
+OpenMoji,Relieved face,oe_relieved_face.webp
+OpenMoji,Pensive face,oe_pensive_face.webp
+OpenMoji,Sleepy face,oe_sleepy_face.webp
+OpenMoji,Drooling face,oe_drooling_face.webp
+OpenMoji,Sleeping face,oe_sleeping_face.webp
+OpenMoji,Face with bags under eyes,oe_face_with_bags_under_eyes.webp
+OpenMoji,Face with medical mask,oe_face_with_medical_mask.webp
+OpenMoji,Face with thermometer,oe_face_with_thermometer.webp
+OpenMoji,Face with head-bandage,oe_face_with_head_bandage.webp
+OpenMoji,Nauseated face,oe_nauseated_face.webp
+OpenMoji,Face vomiting,oe_face_vomiting.webp
+OpenMoji,Sneezing face,oe_sneezing_face.webp
+OpenMoji,Hot face,oe_hot_face.webp
+OpenMoji,Cold face,oe_cold_face.webp
+OpenMoji,Woozy face,oe_woozy_face.webp
+OpenMoji,Face with crossed-out eyes,oe_face_with_crossed_out_eyes.webp
+OpenMoji,Face with spiral eyes,oe_face_with_spiral_eyes.webp
+OpenMoji,Exploding head,oe_exploding_head.webp
+OpenMoji,Confused face,oe_confused_face.webp
+OpenMoji,Face with diagonal mouth,oe_face_with_diagonal_mouth.webp
+OpenMoji,Worried face,oe_worried_face.webp
+OpenMoji,Slightly frowning face,oe_slightly_frowning_face.webp
+OpenMoji,Frowning face,oe_frowning_face.webp
+OpenMoji,Face with open mouth,oe_face_with_open_mouth.webp
+OpenMoji,Hushed face,oe_hushed_face.webp
+OpenMoji,Astonished face,oe_astonished_face.webp
+OpenMoji,Flushed face,oe_flushed_face.webp
+OpenMoji,Distorted face,oe_distorted_face.webp
+OpenMoji,Pleading face,oe_pleading_face.webp
+OpenMoji,Face holding back tears,oe_face_holding_back_tears.webp
+OpenMoji,Frowning face with open mouth,oe_frowning_face_with_open_mouth.webp
+OpenMoji,Anguished face,oe_anguished_face.webp
+OpenMoji,Fearful face,oe_fearful_face.webp
+OpenMoji,Anxious face with sweat,oe_anxious_face_with_sweat.webp
+OpenMoji,Sad but relieved face,oe_sad_but_relieved_face.webp
+OpenMoji,Crying face,oe_crying_face.webp
+OpenMoji,Loudly crying face,oe_loudly_crying_face.webp
+OpenMoji,Face screaming in fear,oe_face_screaming_in_fear.webp
+OpenMoji,Confounded face,oe_confounded_face.webp
+OpenMoji,Persevering face,oe_persevering_face.webp
+OpenMoji,Disappointed face,oe_disappointed_face.webp
+OpenMoji,Downcast face with sweat,oe_downcast_face_with_sweat.webp
+OpenMoji,Weary face,oe_weary_face.webp
+OpenMoji,Tired face,oe_tired_face.webp
+OpenMoji,Yawning face,oe_yawning_face.webp
+OpenMoji,Face with steam from nose,oe_face_with_steam_from_nose.webp
+OpenMoji,Enraged face,oe_enraged_face.webp
+OpenMoji,Angry face,oe_angry_face.webp
+OpenMoji,Face with symbols on mouth,oe_face_with_symbols_on_mouth.webp
+OpenMoji,Smiling face with horns,oe_smiling_face_with_horns.webp
+OpenMoji,Angry face with horns,oe_angry_face_with_horns.webp
+OpenMoji,Skull,oe_skull.webp
+OpenMoji,Skull and crossbones,oe_skull_and_crossbones.webp
+OpenMoji,Kiss mark,oe_kiss_mark.webp
+OpenMoji,Hundred points,oe_hundred_points.webp
+OpenMoji,Anger symbol,oe_anger_symbol.webp
+OpenMoji,Fight cloud,oe_fight_cloud.webp
+OpenMoji,Collision,oe_collision.webp
+OpenMoji,Dizzy,oe_dizzy.webp
+OpenMoji,Sweat droplets,oe_sweat_droplets.webp
+OpenMoji,Dashing away,oe_dashing_away.webp
+OpenMoji,Hole,oe_hole.webp
+OpenMoji,Speech balloon,oe_speech_balloon.webp
+OpenMoji,Eye in speech bubble,oe_eye_in_speech_bubble.webp
+OpenMoji,Left speech bubble,oe_left_speech_bubble.webp
+OpenMoji,Right anger bubble,oe_right_anger_bubble.webp
+OpenMoji,Thought balloon,oe_thought_balloon.webp
+OpenMoji,ZZZ,oe_zzz.webp
+OpenMoji,Waving hand,oe_waving_hand.webp
+OpenMoji,Raised back of hand,oe_raised_back_of_hand.webp
+OpenMoji,Hand with fingers splayed,oe_hand_with_fingers_splayed.webp
+OpenMoji,Raised hand,oe_raised_hand.webp
+OpenMoji,Vulcan salute,oe_vulcan_salute.webp
+OpenMoji,Rightwards hand,oe_rightwards_hand.webp
+OpenMoji,Leftwards hand,oe_leftwards_hand.webp
+OpenMoji,Palm down hand,oe_palm_down_hand.webp
+OpenMoji,Palm up hand,oe_palm_up_hand.webp
+OpenMoji,Leftwards pushing hand,oe_leftwards_pushing_hand.webp
+OpenMoji,Rightwards pushing hand,oe_rightwards_pushing_hand.webp
+OpenMoji,OK hand,oe_ok_hand.webp
+OpenMoji,Pinched fingers,oe_pinched_fingers.webp
+OpenMoji,Pinching hand,oe_pinching_hand.webp
+OpenMoji,Victory hand,oe_victory_hand.webp
+OpenMoji,Crossed fingers,oe_crossed_fingers.webp
+OpenMoji,Hand with index finger and thumb crossed,oe_hand_with_index_finger_and_thumb_crossed.webp
+OpenMoji,Love-you gesture,oe_love_you_gesture.webp
+OpenMoji,Sign of the horns,oe_sign_of_the_horns.webp
+OpenMoji,Call me hand,oe_call_me_hand.webp
+OpenMoji,Backhand index pointing left,oe_backhand_index_pointing_left.webp
+OpenMoji,Backhand index pointing right,oe_backhand_index_pointing_right.webp
+OpenMoji,Backhand index pointing up,oe_backhand_index_pointing_up.webp
+OpenMoji,Middle finger,oe_middle_finger.webp
+OpenMoji,Backhand index pointing down,oe_backhand_index_pointing_down.webp
+OpenMoji,Index pointing up,oe_index_pointing_up.webp
+OpenMoji,Index pointing at the viewer,oe_index_pointing_at_the_viewer.webp
+OpenMoji,Thumbs up,oe_thumbs_up.webp
+OpenMoji,Thumbs down,oe_thumbs_down.webp
+OpenMoji,Raised fist,oe_raised_fist.webp
+OpenMoji,Oncoming fist,oe_oncoming_fist.webp
+OpenMoji,Left-facing fist,oe_left_facing_fist.webp
+OpenMoji,Right-facing fist,oe_right_facing_fist.webp
+OpenMoji,Clapping hands,oe_clapping_hands.webp
+OpenMoji,Raising hands,oe_raising_hands.webp
+OpenMoji,Heart hands,oe_heart_hands.webp
+OpenMoji,Open hands,oe_open_hands.webp
+OpenMoji,Palms up together,oe_palms_up_together.webp
+OpenMoji,Handshake,oe_handshake.webp
+OpenMoji,Folded hands,oe_folded_hands.webp
+OpenMoji,Flexed biceps,oe_flexed_biceps.webp
+OpenMoji,Mechanical arm,oe_mechanical_arm.webp
+OpenMoji,Mechanical leg,oe_mechanical_leg.webp
+OpenMoji,Leg,oe_leg.webp
+OpenMoji,Foot,oe_foot.webp
+OpenMoji,Ear,oe_ear.webp
+OpenMoji,Ear with hearing aid,oe_ear_with_hearing_aid.webp
+OpenMoji,Nose,oe_nose.webp
+OpenMoji,Brain,oe_brain.webp
+OpenMoji,Anatomical heart,oe_anatomical_heart.webp
+OpenMoji,Lungs,oe_lungs.webp
+OpenMoji,Tooth,oe_tooth.webp
+OpenMoji,Bone,oe_bone.webp
+OpenMoji,Eyes,oe_eyes.webp
+OpenMoji,Eye,oe_eye.webp
+OpenMoji,Tongue,oe_tongue.webp
+OpenMoji,Mouth,oe_mouth.webp
+OpenMoji,Biting lip,oe_biting_lip.webp
+OpenMoji,Monkey face,oe_monkey_face.webp
+OpenMoji,Monkey,oe_monkey.webp
+OpenMoji,Gorilla,oe_gorilla.webp
+OpenMoji,Orangutan,oe_orangutan.webp
+OpenMoji,Dog face,oe_dog_face.webp
+OpenMoji,Dog,oe_dog.webp
+OpenMoji,Guide dog,oe_guide_dog.webp
+OpenMoji,Service dog,oe_service_dog.webp
+OpenMoji,Poodle,oe_poodle.webp
+OpenMoji,Wolf,oe_wolf.webp
+OpenMoji,Fox,oe_fox.webp
+OpenMoji,Raccoon,oe_raccoon.webp
+OpenMoji,Cat face,oe_cat_face.webp
+OpenMoji,Cat,oe_cat.webp
+OpenMoji,Black cat,oe_black_cat.webp
+OpenMoji,Lion,oe_lion.webp
+OpenMoji,Tiger face,oe_tiger_face.webp
+OpenMoji,Tiger,oe_tiger.webp
+OpenMoji,Leopard,oe_leopard.webp
+OpenMoji,Horse face,oe_horse_face.webp
+OpenMoji,Moose,oe_moose.webp
+OpenMoji,Donkey,oe_donkey.webp
+OpenMoji,Horse,oe_horse.webp
+OpenMoji,Unicorn,oe_unicorn.webp
+OpenMoji,Zebra,oe_zebra.webp
+OpenMoji,Deer,oe_deer.webp
+OpenMoji,Bison,oe_bison.webp
+OpenMoji,Cow face,oe_cow_face.webp
+OpenMoji,Ox,oe_ox.webp
+OpenMoji,Water buffalo,oe_water_buffalo.webp
+OpenMoji,Cow,oe_cow.webp
+OpenMoji,Pig face,oe_pig_face.webp
+OpenMoji,Pig,oe_pig.webp
+OpenMoji,Boar,oe_boar.webp
+OpenMoji,Pig nose,oe_pig_nose.webp
+OpenMoji,Ram,oe_ram.webp
+OpenMoji,Ewe,oe_ewe.webp
+OpenMoji,Goat,oe_goat.webp
+OpenMoji,Camel,oe_camel.webp
+OpenMoji,Two-hump camel,oe_two_hump_camel.webp
+OpenMoji,Llama,oe_llama.webp
+OpenMoji,Giraffe,oe_giraffe.webp
+OpenMoji,Elephant,oe_elephant.webp
+OpenMoji,Mammoth,oe_mammoth.webp
+OpenMoji,Rhinoceros,oe_rhinoceros.webp
+OpenMoji,Hippopotamus,oe_hippopotamus.webp
+OpenMoji,Mouse face,oe_mouse_face.webp
+OpenMoji,Mouse,oe_mouse.webp
+OpenMoji,Rat,oe_rat.webp
+OpenMoji,Hamster,oe_hamster.webp
+OpenMoji,Rabbit face,oe_rabbit_face.webp
+OpenMoji,Rabbit,oe_rabbit.webp
+OpenMoji,Chipmunk,oe_chipmunk.webp
+OpenMoji,Beaver,oe_beaver.webp
+OpenMoji,Hedgehog,oe_hedgehog.webp
+OpenMoji,Bat,oe_bat.webp
+OpenMoji,Bear,oe_bear.webp
+OpenMoji,Polar bear,oe_polar_bear.webp
+OpenMoji,Koala,oe_koala.webp
+OpenMoji,Panda,oe_panda.webp
+OpenMoji,Sloth,oe_sloth.webp
+OpenMoji,Otter,oe_otter.webp
+OpenMoji,Skunk,oe_skunk.webp
+OpenMoji,Kangaroo,oe_kangaroo.webp
+OpenMoji,Badger,oe_badger.webp
+OpenMoji,Paw prints,oe_paw_prints.webp
+OpenMoji,Turkey,oe_turkey.webp
+OpenMoji,Chicken,oe_chicken.webp
+OpenMoji,Rooster,oe_rooster.webp
+OpenMoji,Hatching chick,oe_hatching_chick.webp
+OpenMoji,Baby chick,oe_baby_chick.webp
+OpenMoji,Front-facing baby chick,oe_front_facing_baby_chick.webp
+OpenMoji,Bird,oe_bird.webp
+OpenMoji,Penguin,oe_penguin.webp
+OpenMoji,Dove,oe_dove.webp
+OpenMoji,Eagle,oe_eagle.webp
+OpenMoji,Duck,oe_duck.webp
+OpenMoji,Swan,oe_swan.webp
+OpenMoji,Owl,oe_owl.webp
+OpenMoji,Dodo,oe_dodo.webp
+OpenMoji,Feather,oe_feather.webp
+OpenMoji,Flamingo,oe_flamingo.webp
+OpenMoji,Peacock,oe_peacock.webp
+OpenMoji,Parrot,oe_parrot.webp
+OpenMoji,Wing,oe_wing.webp
+OpenMoji,Black bird,oe_black_bird.webp
+OpenMoji,Goose,oe_goose.webp
+OpenMoji,Phoenix,oe_phoenix.webp
+OpenMoji,Spouting whale,oe_spouting_whale.webp
+OpenMoji,Whale,oe_whale.webp
+OpenMoji,Dolphin,oe_dolphin.webp
+OpenMoji,Orca,oe_orca.webp
+OpenMoji,Seal,oe_seal.webp
+OpenMoji,Fish,oe_fish.webp
+OpenMoji,Tropical fish,oe_tropical_fish.webp
+OpenMoji,Blowfish,oe_blowfish.webp
+OpenMoji,Shark,oe_shark.webp
+OpenMoji,Octopus,oe_octopus.webp
+OpenMoji,Spiral shell,oe_spiral_shell.webp
+OpenMoji,Coral,oe_coral.webp
+OpenMoji,Jellyfish,oe_jellyfish.webp
+OpenMoji,Crab,oe_crab.webp
+OpenMoji,Lobster,oe_lobster.webp
+OpenMoji,Shrimp,oe_shrimp.webp
+OpenMoji,Squid,oe_squid.webp
+OpenMoji,Oyster,oe_oyster.webp
+OpenMoji,Snail,oe_snail.webp
+OpenMoji,Butterfly,oe_butterfly.webp
+OpenMoji,Bug,oe_bug.webp
+OpenMoji,Ant,oe_ant.webp
+OpenMoji,Honeybee,oe_honeybee.webp
+OpenMoji,Beetle,oe_beetle.webp
+OpenMoji,Lady beetle,oe_lady_beetle.webp
+OpenMoji,Cricket,oe_cricket.webp
+OpenMoji,Cockroach,oe_cockroach.webp
+OpenMoji,Spider,oe_spider.webp
+OpenMoji,Spider web,oe_spider_web.webp
+OpenMoji,Scorpion,oe_scorpion.webp
+OpenMoji,Mosquito,oe_mosquito.webp
+OpenMoji,Fly,oe_fly.webp
+OpenMoji,Worm,oe_worm.webp
+OpenMoji,Microbe,oe_microbe.webp
+OpenMoji,Bouquet,oe_bouquet.webp
+OpenMoji,Cherry blossom,oe_cherry_blossom.webp
+OpenMoji,White flower,oe_white_flower.webp
+OpenMoji,Lotus,oe_lotus.webp
+OpenMoji,Rosette,oe_rosette.webp
+OpenMoji,Rose,oe_rose.webp
+OpenMoji,Wilted flower,oe_wilted_flower.webp
+OpenMoji,Hibiscus,oe_hibiscus.webp
+OpenMoji,Sunflower,oe_sunflower.webp
+OpenMoji,Blossom,oe_blossom.webp
+OpenMoji,Tulip,oe_tulip.webp
+OpenMoji,Hyacinth,oe_hyacinth.webp
+OpenMoji,Grapes,oe_grapes.webp
+OpenMoji,Melon,oe_melon.webp
+OpenMoji,Watermelon,oe_watermelon.webp
+OpenMoji,Tangerine,oe_tangerine.webp
+OpenMoji,Lemon,oe_lemon.webp
+OpenMoji,Lime,oe_lime.webp
+OpenMoji,Banana,oe_banana.webp
+OpenMoji,Pineapple,oe_pineapple.webp
+OpenMoji,Mango,oe_mango.webp
+OpenMoji,Red apple,oe_red_apple.webp
+OpenMoji,Green apple,oe_green_apple.webp
+OpenMoji,Pear,oe_pear.webp
+OpenMoji,Peach,oe_peach.webp
+OpenMoji,Cherries,oe_cherries.webp
+OpenMoji,Strawberry,oe_strawberry.webp
+OpenMoji,Blueberries,oe_blueberries.webp
+OpenMoji,Kiwi fruit,oe_kiwi_fruit.webp
+OpenMoji,Tomato,oe_tomato.webp
+OpenMoji,Olive,oe_olive.webp
+OpenMoji,Coconut,oe_coconut.webp
+OpenMoji,Avocado,oe_avocado.webp
+OpenMoji,Eggplant,oe_eggplant.webp
+OpenMoji,Potato,oe_potato.webp
+OpenMoji,Carrot,oe_carrot.webp
+OpenMoji,Ear of corn,oe_ear_of_corn.webp
+OpenMoji,Hot pepper,oe_hot_pepper.webp
+OpenMoji,Bell pepper,oe_bell_pepper.webp
+OpenMoji,Cucumber,oe_cucumber.webp
+OpenMoji,Leafy green,oe_leafy_green.webp
+OpenMoji,Broccoli,oe_broccoli.webp
+OpenMoji,Garlic,oe_garlic.webp
+OpenMoji,Onion,oe_onion.webp
+OpenMoji,Peanuts,oe_peanuts.webp
+OpenMoji,Beans,oe_beans.webp
+OpenMoji,Chestnut,oe_chestnut.webp
+OpenMoji,Ginger root,oe_ginger_root.webp
+OpenMoji,Pea pod,oe_pea_pod.webp
+OpenMoji,Brown mushroom,oe_brown_mushroom.webp
+OpenMoji,Root vegetable,oe_root_vegetable.webp
+OpenMoji,Bread,oe_bread.webp
+OpenMoji,Croissant,oe_croissant.webp
+OpenMoji,Baguette bread,oe_baguette_bread.webp
+OpenMoji,Flatbread,oe_flatbread.webp
+OpenMoji,Pretzel,oe_pretzel.webp
+OpenMoji,Bagel,oe_bagel.webp
+OpenMoji,Pancakes,oe_pancakes.webp
+OpenMoji,Waffle,oe_waffle.webp
+OpenMoji,Cheese wedge,oe_cheese_wedge.webp
+OpenMoji,Meat on bone,oe_meat_on_bone.webp
+OpenMoji,Poultry leg,oe_poultry_leg.webp
+OpenMoji,Cut of meat,oe_cut_of_meat.webp
+OpenMoji,Bacon,oe_bacon.webp
+OpenMoji,Hamburger,oe_hamburger.webp
+OpenMoji,French fries,oe_french_fries.webp
+OpenMoji,Pizza,oe_pizza.webp
+OpenMoji,Hot dog,oe_hot_dog.webp
+OpenMoji,Sandwich,oe_sandwich.webp
+OpenMoji,Taco,oe_taco.webp
+OpenMoji,Burrito,oe_burrito.webp
+OpenMoji,Tamale,oe_tamale.webp
+OpenMoji,Stuffed flatbread,oe_stuffed_flatbread.webp
+OpenMoji,Falafel,oe_falafel.webp
+OpenMoji,Egg,oe_egg.webp
+OpenMoji,Cooking,oe_cooking.webp
+OpenMoji,Shallow pan of food,oe_shallow_pan_of_food.webp
+OpenMoji,Pot of food,oe_pot_of_food.webp
+OpenMoji,Fondue,oe_fondue.webp
+OpenMoji,Bowl with spoon,oe_bowl_with_spoon.webp
+OpenMoji,Green salad,oe_green_salad.webp
+OpenMoji,Popcorn,oe_popcorn.webp
+OpenMoji,Butter,oe_butter.webp
+OpenMoji,Salt,oe_salt.webp
+OpenMoji,Canned food,oe_canned_food.webp
+OpenMoji,Soft ice cream,oe_soft_ice_cream.webp
+OpenMoji,Shaved ice,oe_shaved_ice.webp
+OpenMoji,Ice cream,oe_ice_cream.webp
+OpenMoji,Doughnut,oe_doughnut.webp
+OpenMoji,Cookie,oe_cookie.webp
+OpenMoji,Birthday cake,oe_birthday_cake.webp
+OpenMoji,Shortcake,oe_shortcake.webp
+OpenMoji,Cupcake,oe_cupcake.webp
+OpenMoji,Pie,oe_pie.webp
+OpenMoji,Chocolate bar,oe_chocolate_bar.webp
+OpenMoji,Candy,oe_candy.webp
+OpenMoji,Lollipop,oe_lollipop.webp
+OpenMoji,Custard,oe_custard.webp
+OpenMoji,Honey pot,oe_honey_pot.webp
+OpenMoji,Baby bottle,oe_baby_bottle.webp
+OpenMoji,Glass of milk,oe_glass_of_milk.webp
+OpenMoji,Hot beverage,oe_hot_beverage.webp
+OpenMoji,Teapot,oe_teapot.webp
+OpenMoji,Teacup without handle,oe_teacup_without_handle.webp
+OpenMoji,Sake,oe_sake.webp
+OpenMoji,Bottle with popping cork,oe_bottle_with_popping_cork.webp
+OpenMoji,Wine glass,oe_wine_glass.webp

@@ -11,8 +11,8 @@
 
     <ApplicationTitle>Custom Soundboard Lite</ApplicationTitle>
     <ApplicationId>uk.co.dbak91.customsoundboardlite</ApplicationId>
-    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
-    <ApplicationVersion>1</ApplicationVersion>
+    <ApplicationDisplayVersion>1.1</ApplicationDisplayVersion>
+    <ApplicationVersion>2</ApplicationVersion>
 
     <SupportedOSPlatformVersion>21.0</SupportedOSPlatformVersion>
     <!-- Nexus 7 (2012): 32-bit ARM (armeabi-v7a), Android 5.0 (API 21). -->

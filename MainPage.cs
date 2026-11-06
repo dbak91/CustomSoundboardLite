@@ -114,6 +114,12 @@ public class MainPage : ContentPage
     private readonly Button _menuButton;
     private readonly Grid _menuOverlay;
     private readonly VerticalStackLayout _menuItems;
+    private readonly Grid _passwordOverlay;
+    private readonly Entry _passwordEntry;
+    private readonly Label _passwordError;
+
+    // Needed before the menu (and so edit mode) opens. Tapping outside the box closes the prompt.
+    private const string MenuPassword = "123";
     private readonly List<(Button Tab, Func<View> Build)> _tabs = new();
     private readonly List<Button> _builtInTabs = new();
     private readonly List<Button> _extraTabs = new();
@@ -191,7 +197,7 @@ public class MainPage : ContentPage
             TextColor = Colors.Black,
         };
         SemanticProperties.SetDescription(_menuButton, "Menu");
-        _menuButton.Clicked += (_, _) => OpenMenu();
+        _menuButton.Clicked += (_, _) => OpenPasswordPrompt();
 
         var topRow = new Grid
         {
@@ -287,6 +293,80 @@ public class MainPage : ContentPage
             Content = new ScrollView { Content = _menuItems },
         });
 
+        // Password prompt shown before the menu opens. Tapping the dimmed area outside the box closes it.
+        _passwordEntry = new Entry
+        {
+            Keyboard = Keyboard.Numeric,
+            IsPassword = true,
+            Placeholder = "Password",
+            FontSize = 24,
+            HorizontalTextAlignment = TextAlignment.Center,
+        };
+        _passwordEntry.Completed += (_, _) => CheckPassword();
+
+        _passwordError = new Label
+        {
+            Text = "",
+            FontSize = 16,
+            TextColor = Color.FromArgb("#C62828"),
+            HorizontalTextAlignment = TextAlignment.Center,
+        };
+
+        var passwordOk = new Button
+        {
+            Text = "OK",
+            FontSize = 20,
+            FontAttributes = FontAttributes.Bold,
+            CornerRadius = 12,
+            MinimumHeightRequest = 56,
+            BackgroundColor = Color.FromArgb("#2E7D32"),
+            TextColor = Colors.White,
+        };
+        passwordOk.Clicked += (_, _) => CheckPassword();
+
+        var passwordCard = new Border
+        {
+            BackgroundColor = Colors.White,
+            Stroke = Colors.Transparent,
+            StrokeShape = new RoundRectangle { CornerRadius = 20 },
+            Padding = new Thickness(20),
+            MaximumWidthRequest = 420,
+            HorizontalOptions = LayoutOptions.Center,
+            VerticalOptions = LayoutOptions.Center,
+            Content = new VerticalStackLayout
+            {
+                Spacing = 14,
+                Children =
+                {
+                    new Label
+                    {
+                        Text = "Enter password to open the menu",
+                        FontSize = 20,
+                        FontAttributes = FontAttributes.Bold,
+                        TextColor = Colors.Black,
+                        HorizontalTextAlignment = TextAlignment.Center,
+                    },
+                    _passwordEntry,
+                    passwordOk,
+                    _passwordError,
+                },
+            },
+        };
+
+        // A tap on the box itself does nothing, so only a tap outside it closes the prompt.
+        passwordCard.GestureRecognizers.Add(new TapGestureRecognizer());
+
+        _passwordOverlay = new Grid
+        {
+            IsVisible = false,
+            BackgroundColor = Color.FromArgb("#B3000000"),
+            Padding = new Thickness(24),
+        };
+        _passwordOverlay.Add(passwordCard);
+        var dismissPrompt = new TapGestureRecognizer();
+        dismissPrompt.Tapped += (_, _) => ClosePasswordPrompt();
+        _passwordOverlay.GestureRecognizers.Add(dismissPrompt);
+
         var layout = new Grid
         {
             RowDefinitions =
@@ -303,6 +383,8 @@ public class MainPage : ContentPage
         // Added last so the menu sits on top of everything.
         layout.Add(_menuOverlay, 0, 0);
         Grid.SetRowSpan(_menuOverlay, 3);
+        layout.Add(_passwordOverlay, 0, 0);
+        Grid.SetRowSpan(_passwordOverlay, 3);
         Content = layout;
 
         ApplyExtraPages();
@@ -435,6 +517,32 @@ public class MainPage : ContentPage
         }
     }
 
+    private void OpenPasswordPrompt()
+    {
+        _passwordEntry.Text = "";
+        _passwordError.Text = "";
+        _passwordOverlay.IsVisible = true;
+    }
+
+    private void ClosePasswordPrompt()
+    {
+        _passwordOverlay.IsVisible = false;
+    }
+
+    // Right password opens the menu. Wrong password clears the box and says so.
+    private void CheckPassword()
+    {
+        if (_passwordEntry.Text == MenuPassword)
+        {
+            ClosePasswordPrompt();
+            OpenMenu();
+            return;
+        }
+
+        _passwordEntry.Text = "";
+        _passwordError.Text = "Wrong password. Try again.";
+    }
+
     private void OpenMenu()
     {
         _menuItems.Children.Clear();
@@ -488,6 +596,12 @@ public class MainPage : ContentPage
     // The tablet's back button closes the menu panel, the same as its last button.
     protected override bool OnBackButtonPressed()
     {
+        if (_passwordOverlay.IsVisible)
+        {
+            ClosePasswordPrompt();
+            return true;
+        }
+
         if (!_menuOverlay.IsVisible)
         {
             return base.OnBackButtonPressed();

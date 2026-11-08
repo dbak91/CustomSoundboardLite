@@ -1,10 +1,11 @@
 ﻿<#
 .SYNOPSIS
-    Builds the signed 32-bit ARM release APK of the Lite app (Nexus 7 and other old tablets).
+    Builds the signed 32-bit (ARM) and 64-bit (ARM64) release APKs of the Lite app.
 
 .DESCRIPTION
-    It is signed with the release key from scripts\New-SigningKey.ps1, then checked, and copied to
-    artifacts\release\<version>\ as CustomSoundboardLite-<version>.apk.
+    Each APK is built separately, signed with the release key from scripts\New-SigningKey.ps1, then checked, and
+    copied to artifacts\release\<version>\ as CustomSoundboardLite-<version>-armeabi-v7a.apk (32-bit, e.g. Nexus 7)
+    and CustomSoundboardLite-<version>-arm64-v8a.apk (64-bit).
 
     Before each release, raise ApplicationDisplayVersion and ApplicationVersion in CustomSoundboard.csproj,
     or the tablets will not accept the new APK as an update.
@@ -31,17 +32,23 @@ $apksigner = if ($sdk) {
     Get-ChildItem "$sdk\build-tools\*\apksigner.bat" | Sort-Object { [version]$_.Directory.Name } | Select-Object -Last 1
 }
 
-foreach ($edition in "Lite") {
-    Write-Host "Building $edition $version..." -ForegroundColor Cyan
-    & dotnet publish $project -c Release -f $framework -p:AndroidPackageFormat=apk -nologo -v q
+# Runtime identifier => ABI label used in the APK file name.
+$targets = [ordered]@{
+    "android-arm"   = "armeabi-v7a"   # 32-bit: Nexus 7 (2012) and other old tablets
+    "android-arm64" = "arm64-v8a"     # 64-bit: newer tablets and phones
+}
+
+foreach ($rid in $targets.Keys) {
+    $abi = $targets[$rid]
+    Write-Host "Building $rid ($abi) $version..." -ForegroundColor Cyan
+    & dotnet publish $project -c Release -f $framework -r $rid -p:AndroidPackageFormat=apk -nologo -v q
     if ($LASTEXITCODE -ne 0) {
-        Write-Error "The $edition build failed."
+        Write-Error "The $rid build failed."
     }
 
-    $bin = "bin"
-    $apk = Get-ChildItem (Join-Path $root "$bin\Release\$framework\android-arm\publish\*-Signed.apk") |
+    $apk = Get-ChildItem (Join-Path $root "bin\Release\$framework\$rid\publish\*-Signed.apk") |
         Sort-Object LastWriteTime | Select-Object -Last 1
-    $target = Join-Path $output "CustomSoundboardLite-$version.apk"
+    $target = Join-Path $output "CustomSoundboardLite-$version-$abi.apk"
     Copy-Item $apk.FullName $target -Force
 
     if ($apksigner) {
@@ -53,7 +60,6 @@ foreach ($edition in "Lite") {
         if ($report -match "CN=Android Debug") {
             Write-Error "$target was signed with the debug key, not the release key."
         }
-
     }
 
     $size = [math]::Round((Get-Item $target).Length / 1MB, 1)
@@ -61,5 +67,5 @@ foreach ($edition in "Lite") {
 }
 
 if (-not $apksigner) {
-    Write-Warning "apksigner was not found, so the signature was not checked."
+    Write-Warning "apksigner was not found, so the signatures were not checked."
 }

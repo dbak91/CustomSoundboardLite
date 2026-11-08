@@ -27,11 +27,14 @@ which deletes its tiles.
 .\scripts\Publish-Release.ps1
 ```
 
-This builds the app, signs it with the release key, checks the signature, and writes:
+This builds the app twice, once for 32-bit ARM and once for 64-bit ARM, signs both with the release key, checks the signatures, and writes:
 
 ```text
-artifacts\release\<version>\CustomSoundboardLite-<version>.apk
+artifacts\release\<version>\CustomSoundboardLite-<version>-armeabi-v7a.apk
+artifacts\release\<version>\CustomSoundboardLite-<version>-arm64-v8a.apk
 ```
+
+Upload both files to the GitHub release.
 
 ## 4. Install on the tablet
 

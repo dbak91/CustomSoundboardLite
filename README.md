@@ -18,6 +18,17 @@ entry, and its sound file goes in `Resources/Sounds`.
 The app runs in landscape on a grid, sized for wide-screen tablets. Page one has five
 columns across two rows.
 
+## Download
+
+Get the latest APK from the [Releases page](https://github.com/dbak91/CustomSoundboardLite/releases/latest). Each release has two separate files, so pick the one that matches your tablet:
+
+| File | For |
+| --- | --- |
+| `CustomSoundboardLite-<version>-armeabi-v7a.apk` | 32-bit devices, including the Nexus 7 (2012) |
+| `CustomSoundboardLite-<version>-arm64-v8a.apk` | 64-bit devices |
+
+Not sure which one you have? If the device is older than about 2015, choose the 32-bit file. Otherwise try the 64-bit file first. Install by opening the APK and allowing "Install unknown apps" when Android asks.
+
 ## Requirements
 
 - .NET 10 SDK with the MAUI Android workload

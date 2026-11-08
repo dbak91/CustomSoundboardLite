@@ -1,6 +1,7 @@
 # Custom Soundboard Lite
 
 The lightweight edition of [Custom Soundboard](https://github.com/dbak91/CustomSoundboard), made for old 32-bit tablets such as the 2012 Nexus 7 (Android 5.0). It has no AI voice models: robot voices use the device's own text-to-speech, and 1,000 pictures are included. It has its own package ID (`uk.co.dbak91.customsoundboardlite`) and signing key, so it installs alongside the Full app and never replaces it.
+![Uploading Screenshot_20261108-203705.png…]()
 
 A big-button sound board for an Android tablet. Each tile is a large picture on a
 colour, and tapping it plays a spoken word. Built with .NET MAUI.

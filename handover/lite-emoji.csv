@@ -499,3 +499,503 @@ oe_teacup_without_handle,Teacup without handle
 oe_sake,Sake
 oe_bottle_with_popping_cork,Bottle with popping cork
 oe_wine_glass,Wine glass
+oe_cowboy_hat_face,Cowboy hat face
+oe_partying_face,Partying face
+oe_disguised_face,Disguised face
+oe_smiling_face_with_sunglasses,Smiling face with sunglasses
+oe_nerd_face,Nerd face
+oe_face_with_monocle,Face with monocle
+oe_clown_face,Clown face
+oe_robot,Robot
+oe_grinning_cat,Grinning cat
+oe_smiling_cat_with_heart_eyes,Smiling cat with heart-eyes
+oe_cat_with_wry_smile,Cat with wry smile
+oe_weary_cat,Weary cat
+oe_crying_cat,Crying cat
+oe_pouting_cat,Pouting cat
+oe_see_no_evil_monkey,See-no-evil monkey
+oe_hear_no_evil_monkey,Hear-no-evil monkey
+oe_speak_no_evil_monkey,Speak-no-evil monkey
+oe_love_letter,Love letter
+oe_heart_with_ribbon,Heart with ribbon
+oe_sparkling_heart,Sparkling heart
+oe_growing_heart,Growing heart
+oe_beating_heart,Beating heart
+oe_revolving_hearts,Revolving hearts
+oe_two_hearts,Two hearts
+oe_heart_decoration,Heart decoration
+oe_broken_heart,Broken heart
+oe_heart_on_fire,Heart on fire
+oe_mending_heart,Mending heart
+oe_red_heart,Red heart
+oe_pink_heart,Pink heart
+oe_orange_heart,Orange heart
+oe_yellow_heart,Yellow heart
+oe_green_heart,Green heart
+oe_blue_heart,Blue heart
+oe_light_blue_heart,Light blue heart
+oe_purple_heart,Purple heart
+oe_brown_heart,Brown heart
+oe_black_heart,Black heart
+oe_grey_heart,Grey heart
+oe_white_heart,White heart
+oe_writing_hand,Writing hand
+oe_nail_polish,Nail polish
+oe_selfie,Selfie
+oe_baby,Baby
+oe_child,Child
+oe_boy,Boy
+oe_girl,Girl
+oe_person,Person
+oe_man,Man
+oe_woman,Woman
+oe_older_person,Older person
+oe_old_man,Old man
+oe_old_woman,Old woman
+oe_health_worker,Health worker
+oe_student,Student
+oe_teacher,Teacher
+oe_judge,Judge
+oe_farmer,Farmer
+oe_cook,Cook
+oe_mechanic,Mechanic
+oe_factory_worker,Factory worker
+oe_office_worker,Office worker
+oe_scientist,Scientist
+oe_technologist,Technologist
+oe_singer,Singer
+oe_artist,Artist
+oe_pilot,Pilot
+oe_astronaut,Astronaut
+oe_firefighter,Firefighter
+oe_police_officer,Police officer
+oe_detective,Detective
+oe_guard,Guard
+oe_ninja,Ninja
+oe_construction_worker,Construction worker
+oe_prince,Prince
+oe_princess,Princess
+oe_santa_claus,Santa Claus
+oe_superhero,Superhero
+oe_fairy,Fairy
+oe_mermaid,Mermaid
+oe_elf,Elf
+oe_ballet_dancer,Ballet dancer
+oe_horse_racing,Horse racing
+oe_skier,Skier
+oe_snowboarder,Snowboarder
+oe_family,Family
+oe_footprints,Footprints
+oe_frog,Frog
+oe_crocodile,Crocodile
+oe_turtle,Turtle
+oe_lizard,Lizard
+oe_snake,Snake
+oe_dragon_face,Dragon face
+oe_dragon,Dragon
+oe_sauropod,Sauropod
+oe_t_rex,T-Rex
+oe_seedling,Seedling
+oe_potted_plant,Potted plant
+oe_evergreen_tree,Evergreen tree
+oe_deciduous_tree,Deciduous tree
+oe_palm_tree,Palm tree
+oe_cactus,Cactus
+oe_sheaf_of_rice,Sheaf of rice
+oe_herb,Herb
+oe_shamrock,Shamrock
+oe_four_leaf_clover,Four leaf clover
+oe_maple_leaf,Maple leaf
+oe_fallen_leaf,Fallen leaf
+oe_leaf_fluttering_in_wind,Leaf fluttering in wind
+oe_empty_nest,Empty nest
+oe_nest_with_eggs,Nest with eggs
+oe_mushroom,Mushroom
+oe_leafless_tree,Leafless tree
+oe_rice_cracker,Rice cracker
+oe_rice_ball,Rice ball
+oe_cooked_rice,Cooked rice
+oe_curry_rice,Curry rice
+oe_steaming_bowl,Steaming bowl
+oe_spaghetti,Spaghetti
+oe_roasted_sweet_potato,Roasted sweet potato
+oe_sushi,Sushi
+oe_fried_shrimp,Fried shrimp
+oe_dumpling,Dumpling
+oe_fortune_cookie,Fortune cookie
+oe_takeout_box,Takeout box
+oe_tropical_drink,Tropical drink
+oe_pouring_liquid,Pouring liquid
+oe_cup_with_straw,Cup with straw
+oe_bubble_tea,Bubble tea
+oe_beverage_box,Beverage box
+oe_ice,Ice
+oe_fork_and_knife,Fork and knife
+oe_spoon,Spoon
+oe_jar,Jar
+oe_globe_showing_europe_africa,Globe showing Europe-Africa
+oe_globe_showing_americas,Globe showing Americas
+oe_globe_showing_asia_australia,Globe showing Asia-Australia
+oe_globe_with_meridians,Globe with meridians
+oe_world_map,World map
+oe_compass,Compass
+oe_snow_capped_mountain,Snow-capped mountain
+oe_mountain,Mountain
+oe_landslide,Landslide
+oe_volcano,Volcano
+oe_camping,Camping
+oe_beach_with_umbrella,Beach with umbrella
+oe_desert,Desert
+oe_desert_island,Desert island
+oe_national_park,National park
+oe_stadium,Stadium
+oe_classical_building,Classical building
+oe_building_construction,Building construction
+oe_brick,Brick
+oe_rock,Rock
+oe_wood,Wood
+oe_hut,Hut
+oe_houses,Houses
+oe_house,House
+oe_house_with_garden,House with garden
+oe_office_building,Office building
+oe_post_office,Post office
+oe_hospital,Hospital
+oe_bank,Bank
+oe_hotel,Hotel
+oe_convenience_store,Convenience store
+oe_school,School
+oe_department_store,Department store
+oe_factory,Factory
+oe_castle,Castle
+oe_wedding,Wedding
+oe_fountain,Fountain
+oe_tent,Tent
+oe_foggy,Foggy
+oe_night_with_stars,Night with stars
+oe_cityscape,Cityscape
+oe_sunrise_over_mountains,Sunrise over mountains
+oe_sunrise,Sunrise
+oe_cityscape_at_dusk,Cityscape at dusk
+oe_sunset,Sunset
+oe_bridge_at_night,Bridge at night
+oe_carousel_horse,Carousel horse
+oe_playground_slide,Playground slide
+oe_ferris_wheel,Ferris wheel
+oe_roller_coaster,Roller coaster
+oe_barber_pole,Barber pole
+oe_circus_tent,Circus tent
+oe_locomotive,Locomotive
+oe_railway_car,Railway car
+oe_high_speed_train,High-speed train
+oe_bullet_train,Bullet train
+oe_train,Train
+oe_metro,Metro
+oe_light_rail,Light rail
+oe_station,Station
+oe_tram,Tram
+oe_monorail,Monorail
+oe_mountain_railway,Mountain railway
+oe_tram_car,Tram car
+oe_bus,Bus
+oe_oncoming_bus,Oncoming bus
+oe_minibus,Minibus
+oe_ambulance,Ambulance
+oe_fire_engine,Fire engine
+oe_police_car,Police car
+oe_oncoming_police_car,Oncoming police car
+oe_taxi,Taxi
+oe_oncoming_taxi,Oncoming taxi
+oe_automobile,Automobile
+oe_oncoming_automobile,Oncoming automobile
+oe_sport_utility_vehicle,Sport utility vehicle
+oe_pickup_truck,Pickup truck
+oe_delivery_truck,Delivery truck
+oe_articulated_lorry,Articulated lorry
+oe_tractor,Tractor
+oe_racing_car,Racing car
+oe_motorcycle,Motorcycle
+oe_motor_scooter,Motor scooter
+oe_manual_wheelchair,Manual wheelchair
+oe_motorized_wheelchair,Motorized wheelchair
+oe_auto_rickshaw,Auto rickshaw
+oe_bicycle,Bicycle
+oe_kick_scooter,Kick scooter
+oe_skateboard,Skateboard
+oe_roller_skate,Roller skate
+oe_bus_stop,Bus stop
+oe_motorway,Motorway
+oe_railway_track,Railway track
+oe_oil_drum,Oil drum
+oe_fuel_pump,Fuel pump
+oe_wheel,Wheel
+oe_police_car_light,Police car light
+oe_horizontal_traffic_light,Horizontal traffic light
+oe_vertical_traffic_light,Vertical traffic light
+oe_stop_sign,Stop sign
+oe_construction,Construction
+oe_anchor,Anchor
+oe_ring_buoy,Ring buoy
+oe_sailboat,Sailboat
+oe_canoe,Canoe
+oe_speedboat,Speedboat
+oe_passenger_ship,Passenger ship
+oe_ferry,Ferry
+oe_motor_boat,Motor boat
+oe_ship,Ship
+oe_airplane,Airplane
+oe_small_airplane,Small airplane
+oe_airplane_departure,Airplane departure
+oe_airplane_arrival,Airplane arrival
+oe_parachute,Parachute
+oe_seat,Seat
+oe_helicopter,Helicopter
+oe_suspension_railway,Suspension railway
+oe_mountain_cableway,Mountain cableway
+oe_aerial_tramway,Aerial tramway
+oe_satellite,Satellite
+oe_rocket,Rocket
+oe_flying_saucer,Flying saucer
+oe_bellhop_bell,Bellhop bell
+oe_luggage,Luggage
+oe_hourglass_done,Hourglass done
+oe_hourglass_not_done,Hourglass not done
+oe_watch,Watch
+oe_alarm_clock,Alarm clock
+oe_stopwatch,Stopwatch
+oe_timer_clock,Timer clock
+oe_mantelpiece_clock,Mantelpiece clock
+oe_new_moon,New moon
+oe_waxing_crescent_moon,Waxing crescent moon
+oe_first_quarter_moon,First quarter moon
+oe_waxing_gibbous_moon,Waxing gibbous moon
+oe_full_moon,Full moon
+oe_waning_gibbous_moon,Waning gibbous moon
+oe_last_quarter_moon,Last quarter moon
+oe_waning_crescent_moon,Waning crescent moon
+oe_crescent_moon,Crescent moon
+oe_new_moon_face,New moon face
+oe_first_quarter_moon_face,First quarter moon face
+oe_last_quarter_moon_face,Last quarter moon face
+oe_thermometer,Thermometer
+oe_sun,Sun
+oe_full_moon_face,Full moon face
+oe_sun_with_face,Sun with face
+oe_ringed_planet,Ringed planet
+oe_star,Star
+oe_glowing_star,Glowing star
+oe_shooting_star,Shooting star
+oe_milky_way,Milky way
+oe_cloud,Cloud
+oe_sun_behind_cloud,Sun behind cloud
+oe_sun_behind_small_cloud,Sun behind small cloud
+oe_sun_behind_large_cloud,Sun behind large cloud
+oe_sun_behind_rain_cloud,Sun behind rain cloud
+oe_cloud_with_rain,Cloud with rain
+oe_cloud_with_snow,Cloud with snow
+oe_cloud_with_lightning,Cloud with lightning
+oe_tornado,Tornado
+oe_fog,Fog
+oe_wind_face,Wind face
+oe_cyclone,Cyclone
+oe_rainbow,Rainbow
+oe_closed_umbrella,Closed umbrella
+oe_umbrella,Umbrella
+oe_umbrella_with_rain_drops,Umbrella with rain drops
+oe_umbrella_on_ground,Umbrella on ground
+oe_high_voltage,High voltage
+oe_snowflake,Snowflake
+oe_snowman,Snowman
+oe_snowman_without_snow,Snowman without snow
+oe_comet,Comet
+oe_fire,Fire
+oe_droplet,Droplet
+oe_water_wave,Water wave
+oe_jack_o_lantern,Jack-o-lantern
+oe_christmas_tree,Christmas tree
+oe_fireworks,Fireworks
+oe_sparkler,Sparkler
+oe_firecracker,Firecracker
+oe_sparkles,Sparkles
+oe_balloon,Balloon
+oe_party_popper,Party popper
+oe_confetti_ball,Confetti ball
+oe_ribbon,Ribbon
+oe_wrapped_gift,Wrapped gift
+oe_admission_tickets,Admission tickets
+oe_ticket,Ticket
+oe_trophy,Trophy
+oe_sports_medal,Sports medal
+oe_1st_place_medal,1st place medal
+oe_2nd_place_medal,2nd place medal
+oe_3rd_place_medal,3rd place medal
+oe_soccer_ball,Soccer ball
+oe_baseball,Baseball
+oe_softball,Softball
+oe_basketball,Basketball
+oe_volleyball,Volleyball
+oe_american_football,American football
+oe_rugby_football,Rugby football
+oe_tennis,Tennis
+oe_flying_disc,Flying disc
+oe_bowling,Bowling
+oe_cricket_game,Cricket game
+oe_field_hockey,Field hockey
+oe_ice_hockey,Ice hockey
+oe_lacrosse,Lacrosse
+oe_ping_pong,Ping pong
+oe_badminton,Badminton
+oe_boxing_glove,Boxing glove
+oe_martial_arts_uniform,Martial arts uniform
+oe_goal_net,Goal net
+oe_ice_skate,Ice skate
+oe_fishing_pole,Fishing pole
+oe_diving_mask,Diving mask
+oe_running_shirt,Running shirt
+oe_skis,Skis
+oe_sled,Sled
+oe_curling_stone,Curling stone
+oe_bullseye,Bullseye
+oe_yo_yo,Yo-yo
+oe_kite,Kite
+oe_pool_8_ball,Pool 8 ball
+oe_crystal_ball,Crystal ball
+oe_magic_wand,Magic wand
+oe_video_game,Video game
+oe_joystick,Joystick
+oe_puzzle_piece,Puzzle piece
+oe_teddy_bear,Teddy bear
+oe_mirror_ball,Mirror ball
+oe_nesting_dolls,Nesting dolls
+oe_framed_picture,Framed picture
+oe_artist_palette,Artist palette
+oe_thread,Thread
+oe_sewing_needle,Sewing needle
+oe_yarn,Yarn
+oe_knot,Knot
+oe_glasses,Glasses
+oe_sunglasses,Sunglasses
+oe_goggles,Goggles
+oe_lab_coat,Lab coat
+oe_safety_vest,Safety vest
+oe_necktie,Necktie
+oe_t_shirt,T-shirt
+oe_jeans,Jeans
+oe_scarf,Scarf
+oe_gloves,Gloves
+oe_coat,Coat
+oe_socks,Socks
+oe_dress,Dress
+oe_shorts,Shorts
+oe_purse,Purse
+oe_handbag,Handbag
+oe_shopping_bags,Shopping bags
+oe_backpack,Backpack
+oe_running_shoe,Running shoe
+oe_hiking_boot,Hiking boot
+oe_flat_shoe,Flat shoe
+oe_high_heeled_shoe,High-heeled shoe
+oe_ballet_shoes,Ballet shoes
+oe_crown,Crown
+oe_graduation_cap,Graduation cap
+oe_lipstick,Lipstick
+oe_speaker_low_volume,Speaker low volume
+oe_speaker_medium_volume,Speaker medium volume
+oe_speaker_high_volume,Speaker high volume
+oe_loudspeaker,Loudspeaker
+oe_megaphone,Megaphone
+oe_bell,Bell
+oe_bell_with_slash,Bell with slash
+oe_musical_score,Musical score
+oe_musical_note,Musical note
+oe_musical_notes,Musical notes
+oe_microphone,Microphone
+oe_headphone,Headphone
+oe_radio,Radio
+oe_saxophone,Saxophone
+oe_trumpet,Trumpet
+oe_trombone,Trombone
+oe_accordion,Accordion
+oe_guitar,Guitar
+oe_musical_keyboard,Musical keyboard
+oe_violin,Violin
+oe_banjo,Banjo
+oe_drum,Drum
+oe_long_drum,Long drum
+oe_maracas,Maracas
+oe_flute,Flute
+oe_harp,Harp
+oe_mobile_phone,Mobile phone
+oe_telephone,Telephone
+oe_telephone_receiver,Telephone receiver
+oe_battery,Battery
+oe_laptop,Laptop
+oe_desktop_computer,Desktop computer
+oe_printer,Printer
+oe_keyboard,Keyboard
+oe_computer_mouse,Computer mouse
+oe_movie_camera,Movie camera
+oe_television,Television
+oe_camera,Camera
+oe_camera_with_flash,Camera with flash
+oe_video_camera,Video camera
+oe_magnifying_glass_tilted_left,Magnifying glass tilted left
+oe_candle,Candle
+oe_light_bulb,Light bulb
+oe_flashlight,Flashlight
+oe_red_paper_lantern,Red paper lantern
+oe_diya_lamp,Diya lamp
+oe_closed_book,Closed book
+oe_open_book,Open book
+oe_books,Books
+oe_notebook,Notebook
+oe_page_facing_up,Page facing up
+oe_newspaper,Newspaper
+oe_bookmark_tabs,Bookmark tabs
+oe_bookmark,Bookmark
+oe_label,Label
+oe_coin,Coin
+oe_money_bag,Money bag
+oe_treasure_chest,Treasure chest
+oe_yen_banknote,Yen banknote
+oe_dollar_banknote,Dollar banknote
+oe_euro_banknote,Euro banknote
+oe_pound_banknote,Pound banknote
+oe_money_with_wings,Money with wings
+oe_credit_card,Credit card
+oe_receipt,Receipt
+oe_chart_increasing_with_yen,Chart increasing with yen
+oe_envelope,Envelope
+oe_e_mail,E-mail
+oe_incoming_envelope,Incoming envelope
+oe_outbox_tray,Outbox tray
+oe_inbox_tray,Inbox tray
+oe_package,Package
+oe_postbox,Postbox
+oe_ballot_box_with_ballot,Ballot box with ballot
+oe_pencil,Pencil
+oe_black_nib,Black nib
+oe_fountain_pen,Fountain pen
+oe_pen,Pen
+oe_paintbrush,Paintbrush
+oe_crayon,Crayon
+oe_memo,Memo
+oe_briefcase,Briefcase
+oe_file_folder,File folder
+oe_open_file_folder,Open file folder
+oe_calendar,Calendar
+oe_tear_off_calendar,Tear-off calendar
+oe_chart_increasing,Chart increasing
+oe_chart_decreasing,Chart decreasing
+oe_bar_chart,Bar chart
+oe_clipboard,Clipboard
+oe_pushpin,Pushpin
+oe_paperclip,Paperclip
+oe_scissors,Scissors
+oe_wastebasket,Wastebasket
+oe_locked,Locked
+oe_unlocked,Unlocked
+oe_key,Key
+oe_hammer,Hammer
+oe_wrench,Wrench
+oe_screwdriver,Screwdriver

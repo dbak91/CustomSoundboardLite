@@ -14,7 +14,7 @@ https://openmoji.org - release 17.0.0
 
 `manifest.csv` maps each file to its tile label.
 
-`Full/` holds the 1,000 pictures the Lite edition offers (500 Mulberry, 500 OpenMoji; the lists are in `handover/lite-pictures.csv` and `handover/lite-emoji.csv`) as 384px WebP files, rendered from the SVGs (resized only). Both packs are under the same licences and credits as the SVGs they were made from.
+`Full/` holds the 2,000 pictures the Lite edition offers (1,000 Mulberry, 1,000 OpenMoji, about 4.2 MB; the lists are in `handover/lite-pictures.csv` and `handover/lite-emoji.csv`) as small 160px WebP files, rendered from the SVGs (resized only). Both packs are under the same licences and credits as the SVGs they were made from.
 
 ## Voices
 Lite has no AI voice models. Robot voices are the device's own text-to-speech run through simple effects in `Services/RoboticVoice.cs`, so no voice files or licences are bundled.

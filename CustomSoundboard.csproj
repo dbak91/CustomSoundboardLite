@@ -11,8 +11,8 @@
 
     <ApplicationTitle>Custom Soundboard Lite</ApplicationTitle>
     <ApplicationId>uk.co.dbak91.customsoundboardlite</ApplicationId>
-    <ApplicationDisplayVersion>1.2</ApplicationDisplayVersion>
-    <ApplicationVersion>3</ApplicationVersion>
+    <ApplicationDisplayVersion>1.4</ApplicationDisplayVersion>
+    <ApplicationVersion>5</ApplicationVersion>
 
     <SupportedOSPlatformVersion>21.0</SupportedOSPlatformVersion>
     <!-- Nexus 7 (2012): 32-bit ARM (armeabi-v7a), Android 5.0 (API 21). -->
@@ -30,9 +30,9 @@
   </ItemGroup>
 
   <!--
-    Symbol packs (Mulberry, OpenMoji) tiles can use. One 384px WebP per symbol, loaded as symbols/<name>.webp.
+    Symbol packs (Mulberry, OpenMoji) tiles can use. One 160px WebP per symbol, loaded as symbols/<name>.webp.
     As MauiImages they would be packed at five screen sizes each, which made 173 symbols take 22.7 MB.
-    All 3,087 are packaged.
+    2,000 are packaged (1,000 Mulberry, 1,000 OpenMoji, about 4.2 MB).
   -->
   <ItemGroup>
     <MauiAsset Include="Resources\Packs\Full\*.webp" LogicalName="symbols/%(Filename)%(Extension)" />

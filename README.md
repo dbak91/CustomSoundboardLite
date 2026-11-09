@@ -1,6 +1,6 @@
 # Custom Soundboard Lite
 
-The lightweight edition of [Custom Soundboard](https://github.com/dbak91/CustomSoundboard), made for old 32-bit tablets such as the 2012 Nexus 7 (Android 5.0). It has no AI voice models: robot voices use the device's own text-to-speech, and 1,000 pictures are included. It has its own package ID (`uk.co.dbak91.customsoundboardlite`) and signing key, so it installs alongside the Full app and never replaces it.
+The lightweight edition of [Custom Soundboard](https://github.com/dbak91/CustomSoundboard), made for old 32-bit tablets such as the 2012 Nexus 7 (Android 5.0). It has no AI voice models: robot voices use the device's own text-to-speech, and 2,000 pictures (1,000 Mulberry Symbols and 1,000 OpenMoji emoji, about 4 MB) are included. It has its own package ID (`uk.co.dbak91.customsoundboardlite`) and signing key, so it installs alongside the Full app and never replaces it.
 
 <img width="2400" height="1080" alt="Screenshot_20261108-203705" src="https://github.com/user-attachments/assets/e8a60519-1e93-4b5e-a4d0-99ef7c94c657" />
 

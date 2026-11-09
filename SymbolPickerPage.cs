@@ -14,7 +14,7 @@ public class SymbolPickerPage : ContentPage
     private const string SelectedColor = "#1565C0";
     private const string UnselectedColor = "#EEEEEE";
 
-    // There are over 3000 symbols, so they are added a page at a time.
+    // There are 1000 symbols in each pack, so they are added a page at a time.
     private const int PageSize = 300;
     private const int LoadMoreThreshold = 30;
 

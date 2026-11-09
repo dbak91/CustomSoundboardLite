@@ -298,7 +298,8 @@ public class MainPage : ContentPage
         {
             Keyboard = Keyboard.Numeric,
             IsPassword = true,
-            Placeholder = "Password",
+            Placeholder = "Enter '123'",
+            PlaceholderColor = Colors.Gray,
             FontSize = 24,
             HorizontalTextAlignment = TextAlignment.Center,
         };

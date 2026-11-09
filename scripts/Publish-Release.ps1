@@ -26,7 +26,7 @@ $output = Join-Path $root "artifacts\release\$version"
 New-Item -ItemType Directory -Force $output | Out-Null
 
 # apksigner checks each APK is signed, and shows which key signed it.
-$sdk = @("${env:ProgramFiles(x86)}\Android\android-sdk", "$env:LOCALAPPDATA\Android\Sdk", $env:ANDROID_HOME) |
+$sdk = @($env:ANDROID_HOME, "C:\Android\Sdk", "${env:ProgramFiles(x86)}\Android\android-sdk", "$env:LOCALAPPDATA\Android\Sdk") |
     Where-Object { $_ -and (Test-Path "$_\build-tools") } | Select-Object -First 1
 $apksigner = if ($sdk) {
     Get-ChildItem "$sdk\build-tools\*\apksigner.bat" | Sort-Object { [version]$_.Directory.Name } | Select-Object -Last 1
